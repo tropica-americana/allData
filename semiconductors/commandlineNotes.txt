@@ -78,9 +78,10 @@ to execute the file use
 to read the user input 
 echo "please enter something here"
 read something 
-echo "that some tthing is $something "
+echo "that some thing is $something "
 
 # ----------------------------------------------------------------
+
 commonly used file types checkin in the bash command line tools 
 –f:  It returns True if the file exists as a common ( regular ) file.
 -d: it returns True if directory exists.
@@ -97,9 +98,174 @@ commonly used file types checkin in the bash command line tools
 -G: It returns True if the file exists and holds the same group id that is in process.
  -k: It returns True if the file exists and the sticky bit flag is set.
 Now, there are some more parameters for comparison between the two files.
-
 -ef: It returns True if both files exist and indicate the same file. 
+
 #  ----------------------------------------------------------------
 
+$? stores the value of the previous exit status 
+if the command executed perfectly then the exit status is 0 
+other wise it can be anything between 1 and and 255 
 
 
+# ------------------------------------------------------------------
+
+&& and || 
+use them like this 
+
+command1  && command2
+if command1 is not successfully implemented then command2 will be attempted 
+
+#----------------------------------------------------------------
+
+scripting languages are run time languages and they are not precompiled
+
+----------------------------------------------------------------
+
+if you wanna use a function1 that uses another function2 then 
+both of them should be declared before calling the function1
+but the order of declared functions is not important 
+----------------------------------------------------------------
+
+syntax for writing a function is 
+function function1 () {
+    some command 
+    function2 
+}
+function function2 (){
+    command2 
+}
+function1 
+is correct 
+
+function function1 () {
+    some command 
+    function2 
+}
+function1 
+function function2 (){
+    command2 
+}
+is incorrect 
+----------------------------------------------------------------
+to create local variables inside fucntions 
+use 
+local key word 
+local VRAIABLE_NAME="some string or something else"
+
+----------------------------------------------------------------
+
+exit is to shell script 
+return is to the fucntion 
+
+----------------------------------------------------------------
+
+if no return  is provided 
+then the return becomes the exit status of the last command of the function 
+
+----------------------------------------------------------------
+
+to use the positional parameters of the function 
+use the $1 $2 $3 $4 $5 $6 $7 $8 $9 ${10} ${11} ${12} ${13} ${14} ${15} ${16} ${17} ${18} ${19} ${20}
+
+----------------------------------------------------------------
+
+$0 is the name of the function 
+
+----------------------------------------------------------------
+
+the | is called the pipe operator 
+it is used to pass the output of one command to another command
+for example 
+ls -l | grep "some string"
+does the following
+ls -l -> gives the output
+grep "some string" -> takes the output of ls -l as input and searches for the string "some string"
+
+pipe opeartor does not work with the functions 
+
+------- ---------------------------------------------------------------
+to use the pipe operator with the functions
+use the
+command1 | command2
+command1 | command2 | command3
+but not 
+function1 | function2 | function3
+
+----------------------------------------------------------------
+
+to use the pipe operator with the functions
+use the
+fucntion function1 {
+    local VARIABLE_NAME=$(ls -l | wc -l)
+    echo 
+}
+function function2 {
+    local VARIABLE_NAME
+    read VARIABLE_NAME
+    echo "net output of the pipe opeartos is $VARIABLE_NAME " 
+}
+
+now you can type 
+function1 | function2 
+----------------------------------------------------------------
+ls -l | wc -l 
+is not a function 
+it is a commadn pipeline 
+
+----------------------------------------------------------------
+
+pbpaste and pbcopy are powerfull tools for connecting the terminal to the clipboard
+they are used in mac 
+they are most commonly used along side piplelines 
+for example
+ls -l | pbcopy 
+----------------------------------------------------------------
+
+to create an alias just use 
+alias alias_name="command" 
+for example
+alias ll="ls -l"
+this is not an permanent change
+to make the change permanent
+copy and paste the above command in the 
+~/.bash_profile 
+which is 
+~/.zshrc in mac 
+type 
+nano ~/.zshrc
+and paste the command in the file at the end of the file 
+
+----------------------------------------------------------------
+
+to delete an alias
+use
+unalias alias_name
+but this change is not permanent
+
+----------------------------------------------------------------
+
+to paste the content of the clipboard in the terminal
+use
+pbpaste > file_name
+if the file already exists then it will be overwritten
+ifthe file does not exist then it will be created
+
+----------------------------------------------------------------
+
+to copy the content of the file to the clipboard
+use
+pbcopy < file_name
+
+----------------------------------------------------------------
+
+to append the content of the clipboard to the file
+use
+pbpaste >> file_name
+
+----------------------------------------------------------------
+
+please complete this video 
+https://www.youtube.com/watch?v=DJR5RLVOjOw
+i have also bookmarked it 
+
+----------------------------------------------------------------
