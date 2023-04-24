@@ -298,6 +298,11 @@ ca[nt]* will match can , candy , candice , but not cab
 [[:xdigit:]] will match all the hexadecimal digits
 similary in 
 std::regex
+to match any number of digits use 
+[[:digit:]]*
+two match any two digits use 
+[[:digit:]][[:digit:]]
+
 ----------------------------------------------------------------
 to match the special characters
 use the \ before the special character
@@ -368,7 +373,38 @@ fi
 
 ----------------------------------------------------------------
 
-to compare string and variable 
-use 
+to compare two numbers use 
 -eq
-for example
+
+to compare two strings use
+== 
+and use of double square brackets is reccomended
+for integers this is best 
+----
+ "-eq", "-gt", "-lt"
+----
+for example 
+if [ $1 -eq $2 ]
+then 
+    echo "both are equal"
+else 
+    echo "both are not equal"
+fi
+
+----------------------------------------------------------------
+
+you can also use == for numbers
+but when you do that compare numbers like 
+if (( $1 == $2 ))
+then 
+    echo "both are equal"
+else 
+    echo "both are not equal"
+fi
+
+----------------------------------------------------------------
+
+$# is used to count the number of positional parameters
+
+----------------------------------------------------------------
+

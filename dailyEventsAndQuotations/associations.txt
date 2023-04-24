@@ -17,3 +17,9 @@ going out - outcomes
 oye punjab - outcomes
 
 -------------------------------------------------
+-------------------------------------------------
+
+changing the location of .sh files or so called shell files and also changing the locaiton of files connected to shell files
+ ---> negative outcomes
+
+-------------------------------------------------
