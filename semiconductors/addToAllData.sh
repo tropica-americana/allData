@@ -8,7 +8,10 @@ CVS="cvs"
 OPEN="open"
 VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN )
 USER_INPUT="-------------------------------------------------\n\n$@\n\n-------------------------------------------------"
-
+if [ $# -eq 0 ]; then
+    echo "no input"
+    exit 1
+fi
 if [[ $INPUT == $ASSOCIATE ]]; then
     echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/associations.txt
 
