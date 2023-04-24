@@ -1,0 +1,16 @@
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+std::map is a container that stores elements in a mapped fashion. Each element has a key value and a mapped value. No two mapped values can have same key values. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+std::unordered_map is an associative container that contains key-value pairs with unique keys. Search, insertion, and removal have average constant-time complexity.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+std::set is a container that stores unique elements following a specific order. It is usually implemented using Red-Black Tree.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+std::unordered_set is an unordered associative container that contains a set of unique objects of type Key. Search, insertion, and removal have average constant-time complexity.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+std::multiset is an associative container that contains a sorted set of duplicate objects of type Key. No two elements in the container can have equivalent values.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+the fastest of them all is std::unordered_map
+the reason being that it is implemented using hash tables and hence the search, insertion and removal have average constant time complexity.
+hash tables are implemented using arrays and hence the access time is constant.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------

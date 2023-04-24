@@ -1,0 +1,13 @@
+
+--------------------------------------------------------------------
+among other things commadn + shift + p can be used to open terminal in vs code 
+which is very powerfull 
+--------------------------------------------------------------------
+ls -a 
+used to list all files including hidden files
+--------------------------------------------------------------------
+rm -r pathtotheDirectory
+used to remove directory and all its contents
+--------------------------------------------------------------------
+to remove a file use rm filename
+--------------------------------------------------------------------

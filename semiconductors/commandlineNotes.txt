@@ -75,6 +75,7 @@ chmod +x ./someFileInTheSameDirectory.sh
 to execute the file use 
 ./someFileInTheSameDirectory.sh
 # ------------------------------------------------------------------
+
 to read the user input 
 echo "please enter something here"
 read something 
@@ -269,3 +270,105 @@ https://www.youtube.com/watch?v=DJR5RLVOjOw
 i have also bookmarked it 
 
 ----------------------------------------------------------------
+wildcards are insane 
+a*.txt -> all the files that start with a and end with .txt
+? matches any single character 
+* matches any number of characters
+sa?.txt -> sa1.txt sa2.txt sa3.txt sa4.txt sa5.txt sa6.txt sa7.txt sa8.txt sa9.txt sa0.txt
+----------------------------------------------------------------
+
+ca[nt] will match cat and can but not cab
+ca[nt]* will match can , candy , candice , but not cab 
+[] contains the list of characters that can be matched
+
+----------------------------------------------------------------
+[!  ] will match all the characters that are not in the list 
+[!nt] will match all the characters that are not n or t
+----------------------------------------------------------------
+[[:alpha:]] will match all the alphabets 
+[[:digit:]] will match all the digits 
+[[:alnum:]] will match all the alphabets and digits 
+[[:lower:]] will match all the lower case alphabets 
+[[:upper:]] will match all the upper case alphabets 
+[[:space:]] will match all the spaces 
+[[:punct:]] will match all the punctuations 
+[[:graph:]] will match all the printable characters 
+[[:print:]] will match all the printable characters and spaces 
+[[:cntrl:]] will match all the control characters 
+[[:xdigit:]] will match all the hexadecimal digits
+similary in 
+std::regex
+----------------------------------------------------------------
+to match the special characters
+use the \ before the special character
+for example
+\* will match the * character
+----------------------------------------------------------------
+to create a range of allowed character 
+use the -
+for example 
+[a-z]
+[A-Z]
+[0-9]
+----------------------------------------------------------------
+wild cards are bascially regular expressions of the shell 
+----------------------------------------------------------------
+ls *.txt means evertyhing that ends with .txt will be matched
+ls *.txt | wc -l will count the number of files that end with .txt
+where -l is the long option of the wc command
+which in simple terms means 
+count the number of lines
+----------------------------------------------------------------
+wild card operates on the content of current directory
+----------------------------------------------------------------
+echo -e  $final_string | pbcopy
+where 
+-e is the option of echo
+which means
+enable the interpretation of backslash escapes
+----------------------------------------------------------------
+
+to use a function in shell script 
+first declare the function 
+then call the function  
+example 
+function func () {
+    for NAME in $@
+    do 
+        echo "hello $NAME"
+    done
+}
+--> where the $@ includes all the positional parameters
+and then you can call the function 
+
+----------------------------------------------------------------
+
+to call a function on all the paraameters passed to the script using terminal use 
+function func () {
+    for NAME in $@
+    do 
+        echo "hello $NAME"
+    done
+}
+func $@
+
+----------------------------------------------------------------
+
+to compare 
+use the
+-eq
+for example 
+if [ $1 -eq $2 ]
+then 
+    echo "both are equal"
+else 
+    echo "both are not equal"
+fi
+
+
+----------------------------------------------------------------
+
+to compare string and variable 
+use 
+-eq
+for example
