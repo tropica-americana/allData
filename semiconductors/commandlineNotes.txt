@@ -408,3 +408,16 @@ $# is used to count the number of positional parameters
 
 ----------------------------------------------------------------
 
+when you wanna use pb paste in the string you can simply use 
+"      -            ---------------     $(pbpaste)    -----------------    "
+but not anything else 
+
+----------------------------------------------------------------
+we use printf instead of echo 
+because printf is more powerful than echo
+printf is used to format the output
+for example
+printf "%s\n" "hello world"
+printf "%s\n" "
+hello world
+-------------------------------------------------------------------

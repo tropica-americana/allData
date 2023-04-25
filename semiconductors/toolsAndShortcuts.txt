@@ -11,3 +11,5 @@ used to remove directory and all its contents
 --------------------------------------------------------------------
 to remove a file use rm filename
 --------------------------------------------------------------------
+do not use the screen reader mode on vs code 
+--------------------------------------------------------------------
