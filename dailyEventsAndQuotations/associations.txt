@@ -37,3 +37,13 @@ output greater than -- negative outocomes
 -------------------------------------------------
 bed to sleep , chair to work
 -------------------------------------------------
+-------------------------------------------------
+
+not keeping the current task constantly infront of the eyes associated with negative outcomes
+
+-------------------------------------------------
+-------------------------------------------------
+
+not keeping the terminal at alldata folder while adding or removing data in the command line associated with negative outcomes
+
+-------------------------------------------------
