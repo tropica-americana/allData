@@ -57,3 +57,18 @@ higher iq of friends associated with higher iq of individuals
 joining the culture where your desired behavior is the normal behavior associated with far better adaptations to the desired behavior . 
 
 -------------------------------------------------
+-------------------------------------------------
+
+relying on the heap leads to worst outcomes for me
+
+-------------------------------------------------
+-------------------------------------------------
+
+relying on the stack and the CPU leads to good outcomes
+
+-------------------------------------------------
+-------------------------------------------------
+
+habits visualized as wires in the brain leads to positive outcomes
+
+-------------------------------------------------
