@@ -1,0 +1,12 @@
+Mistakes not to make in programming:
+
+1. Not being able to revert to the past correct version of the code
+2. Coding for more than 2 hours/day
+3. Suffering because they are simply too lazy to convey the situation properly to GPT4
+4. Relying on their own limited intelligence and knowledge
+5. Wrong approach towards the problem
+6. Not asking for help from fellow engineers
+7. Stagnation of knowledge
+8. Afraid of documentation and revising and revisiting completed courses
+9. Not using pre-made tools and using their own inefficient tools
+10. Not using enough print statements
