@@ -421,3 +421,16 @@ printf "%s\n" "hello world"
 printf "%s\n" "
 hello world
 -------------------------------------------------------------------
+-------------------------------------------------
+to push changes in to the local repositoy after staging and commitng them , just enter 
+git push origin main
+what is does is 
+it pushes the changes in the local repository to the remote repository
+where main implies the branch name
+and origin implies the remote repository name
+-------------------------------------------------
+-------------------------------------------------
+
+command line can be visualized as instant access to data
+
+-------------------------------------------------

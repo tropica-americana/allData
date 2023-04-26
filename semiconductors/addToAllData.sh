@@ -11,7 +11,8 @@ OPEN="open"
 IDEA="idea"
 EVENT="evt"
 STORY="stry"
-VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY)
+COMMANDLINE="cmd"
+VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE)
 USER_INPUT="-------------------------------------------------\n\n$@\n\n-------------------------------------------------"
 if [[ $INPUT == $OPEN ]]; then
     open /Users/sachinjain/Desktop/AllData/semiconductors/addToAllData.sh
@@ -44,6 +45,8 @@ elif [[ $INPUT == $EVENT ]]; then
     echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/events.txt
 elif [[ $INPUT == $STORY ]]; then
     echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/stories.txt
+elif [[ $INPUT == $COMMANDLINE ]]; then
+    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/semiconductors/commandlineNotes.txt
 else
     echo "invalid input"
     echo "valid inputs are --> ${VALID_INPUTS[@]}"
