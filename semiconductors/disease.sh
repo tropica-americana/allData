@@ -6,9 +6,7 @@
 # taking all the inputs from the user 
 input=$*
 prompt="describe the disease given in the prompt in terms of these 
-following parameters , also please present the answer in the formatted 
-table format in the code box that i can directly copy and paste in the 
-text file and also dont use any special characters "
+following parameters , also please present the answer in a presentable manner "
 diseaseSymptoms="param 1 is 3 most common symptoms "
 diseaseDifferentiatingRadiologicalFeature="param 2 is differentiating  
 radiological feature "
