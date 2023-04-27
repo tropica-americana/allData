@@ -20,8 +20,6 @@ then
     echo $@ > /Users/sachinjain/desktop/alldata/dailyEventsAndQuotations/task.txt
     exit 1 
 fi
-
-
 echo $@ > /Users/sachinjain/desktop/alldata/dailyEventsAndQuotations/task.txt
 exit 1 
 #  if there is no passed parameters then it will show the contents of the file

@@ -66,12 +66,22 @@ elif [[ $INPUT == $WORD ]]; then
     fi
     echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/words.txt
 elif [[ $INPUT == $RADO ]]; then
+    if [[ $SECONDINPUT == $OPEN ]]; then
+        open /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "cat" ]]; then 
+        $BIONIFY /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+        exit 0
+    fi
 
     ROD="---------------------------"
     PASTEDDATA=$(pbpaste)
     echo -e $ROD >> /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
-    printf "%s\n" ""$PASTEDDATA"" >>/Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+    printf "%s\n" "$PASTEDDATA" >>/Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
     echo -e $ROD >> /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+    # displaying the contents anyway 
+    $BIONIFY /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
     
 elif [[ $INPUT == $IDEA ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
@@ -103,6 +113,7 @@ elif [[ $INPUT == $STORY ]]; then
         exit 0
     fi
     echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/stories.txt
+
 elif [[ $INPUT == $COMMANDLINE ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
         open /Users/sachinjain/Desktop/AllData/semiconductors/commandlineNotes.txt

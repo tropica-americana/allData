@@ -4,413 +4,189 @@
 
 crazy pavy pattern -> pulmonary alveolar proteinosis
 
---------------------------------------------------------
+
 ---------------------------
-Ventricular
-wall
-aneurysm
-is
-a
-heart-related
-disease
-that
-involves
-localized
-dilation
-and
-thinning
-of
-the
-ventricular
-wall.
+Right lower zone opacity with air-fluid level. Linear lucency coursing form the peripheral right midzone to below the left hemidiaphragm. No focal consolidation. 
 ---------------------------
 ---------------------------
-`Ventricular
-wall
-aneurysm
-is
-a
-heart-related
-disease
-that
-involves
-localized
-dilation
-and
-thinning
-of
-the
-ventricular
-wall.```
-**Param
-1:
-3
-most
-common
-symptoms**
--
-Chest
-pain
-or
-discomfort
--
-Shortness
-of
-breath
--
-Palpitations
-or
-irregular
-heartbeat
-**Param
-2:
-Differentiating
-radiological
-feature**
-The
-most
-common
-radiological
-feature
-is
-the
-presence
-of
-a
-localized
-outpouching
-in
-the
-ventricular
-wall,
-which
-is
-visible
-on
-imaging
-studies
-like
-echocardiography,
-computed
-tomography
-(CT),
-or
-magnetic
-resonance
-imaging
-(MRI).
-**Param
-3:
-3
-most
-common
-anatomical
-locations**
--
-Left
-ventricular
-wall
-(most
-common)
--
-Right
-ventricular
-wall
--
-Interventricular
-septum
-**Param
-4:
-Prevalence
-and
-incidence
-of
-the
-disease
-in
-approximate
-terms**
-The
-prevalence
-and
-incidence
-of
-ventricular
-wall
-aneurysm
-are
-not
-well-known.
-However,
-it
-is
-estimated
-to
-occur
-in
-approximately
-1
-in
-100,000
-people.
+An elderly female living at a nursing home presented with abdominal pain and distension, with constipation for two days.
 ---------------------------
 ---------------------------
-`Ventricular
-wall
-aneurysm
-is
-a
-heart-related
-disease
-that
-involves
-localized
-dilation
-and
-thinning
-of
-the
-ventricular
-wall.```
-**Param
-1:
-3
-most
-common
-symptoms**
--
-Chest
-pain
-or
-discomfort
--
-Shortness
-of
-breath
--
-Palpitations
-or
-irregular
-heartbeat
-**Param
-2:
-Differentiating
-radiological
-feature**
-The
-most
-common
-radiological
-feature
-is
-the
-presence
-of
-a
-localized
-outpouching
-in
-the
-ventricular
-wall,
-which
-is
-visible
-on
-imaging
-studies
-like
-echocardiography,
-computed
-tomography
-(CT),
-or
-magnetic
-resonance
-imaging
-(MRI).
-**Param
-3:
-3
-most
-common
-anatomical
-locations**
--
-Left
-ventricular
-wall
-(most
-common)
--
-Right
-ventricular
-wall
--
-Interventricular
-septum
-**Param
-4:
-Prevalence
-and
-incidence
-of
-the
-disease
-in
-approximate
-terms**
-The
-prevalence
-and
-incidence
-of
-ventricular
-wall
-aneurysm
-are
-not
-well-known.
-However,
-it
-is
-estimated
-to
-occur
-in
-approximately
-1
-in
-100,000
-people.
+Large pneumoperitoneum and cecal air-fluid level is visible.
 ---------------------------
 ---------------------------
-`Ventricular
-wall
-aneurysm
-is
-a
-heart-related
-disease
-that
-involves
-localized
-dilation
-and
-thinning
-of
-the
-ventricular
-wall.```
-**Param
-1:
-3
-most
-common
-symptoms**
--
-Chest
-pain
-or
-discomfort
--
-Shortness
-of
-breath
--
-Palpitations
-or
-irregular
-heartbeat
-**Param
-2:
-Differentiating
-radiological
-feature**
-The
-most
-common
-radiological
-feature
-is
-the
-presence
-of
-a
-localized
-outpouching
-in
-the
-ventricular
-wall,
-which
-is
-visible
-on
-imaging
-studies
-like
-echocardiography,
-computed
-tomography
-(CT),
-or
-magnetic
-resonance
-imaging
-(MRI).
-**Param
-3:
-3
-most
-common
-anatomical
-locations**
--
-Left
-ventricular
-wall
-(most
-common)
--
-Right
-ventricular
-wall
--
-Interventricular
-septum
-**Param
-4:
-Prevalence
-and
-incidence
-of
-the
-disease
-in
-approximate
-terms**
-The
-prevalence
-and
-incidence
-of
-ventricular
-wall
-aneurysm
-are
-not
-well-known.
-However,
-it
-is
-estimated
-to
-occur
-in
-approximately
-1
-in
-100,000
-people.
+There is a 10 x 13 x 18 cm large multilobulated intramuscular lesion in the right gluteus maximus that appears hypointense on T1-weighted and hyperintense on T2-weighted and fat-saturated T2-weighted sequences with numerous internal thin septations.
+---------------------------
+---------------------------
+Title: Salter-Harris Growth Plate Injury
+
+Description: A Salter-Harris growth plate injury is a fracture that occurs at the growth plate of a long bone in children and adolescents. The growth plate, also known as the physis, is a cartilaginous area near the ends of long bones that allows for growth during childhood and adolescence. These injuries can affect bone growth and development if not treated properly.
+
+**Parameter 1: Three Most Common Symptoms**
+1. Pain and tenderness near the site of injury.
+2. Swelling around the affected joint or bone.
+3. Limited range of motion or difficulty moving the affected limb.
+
+**Parameter 2: Differentiating Radiological Feature**
+The differentiating radiological feature for Salter-Harris fractures is the involvement of the growth plate in the injury. There are five types of Salter-Harris fractures, classified based on the specific area of the growth plate that is involved. X-rays are the primary imaging method used to diagnose and differentiate these fractures.
+
+**Parameter 3: Three Most Common Anatomical Locations**
+1. Distal radius (wrist).
+2. Distal tibia (ankle).
+3. Proximal humerus (upper arm).
+
+**Parameter 4: Prevalence and Incidence**
+The prevalence and incidence of Salter-Harris growth plate injuries vary depending on the specific population studied. It is difficult to provide an exact number for the general population. However, it has been estimated that these injuries account for approximately 15-30% of all fractures in children and adolescents. This would translate to an approximate incidence of 150-300 cases per 100,000 people.
+---------------------------
+---------------------------
+Title: Salter-Harris Growth Plate Injury
+
+Description: A Salter-Harris growth plate injury is a fracture that occurs at the growth plate of a long bone in children and adolescents. The growth plate, also known as the physis, is a cartilaginous area near the ends of long bones that allows for growth during childhood and adolescence. These injuries can affect bone growth and development if not treated properly.
+
+**Parameter 1: Three Most Common Symptoms**
+1. Pain and tenderness near the site of injury.
+2. Swelling around the affected joint or bone.
+3. Limited range of motion or difficulty moving the affected limb.
+
+**Parameter 2: Differentiating Radiological Feature**
+The differentiating radiological feature for Salter-Harris fractures is the involvement of the growth plate in the injury. There are five types of Salter-Harris fractures, classified based on the specific area of the growth plate that is involved. X-rays are the primary imaging method used to diagnose and differentiate these fractures.
+
+**Parameter 3: Three Most Common Anatomical Locations**
+1. Distal radius (wrist).
+2. Distal tibia (ankle).
+3. Proximal humerus (upper arm).
+
+**Parameter 4: Prevalence and Incidence**
+The prevalence and incidence of Salter-Harris growth plate injuries vary depending on the specific population studied. It is difficult to provide an exact number for the general population. However, it has been estimated that these injuries account for approximately 15-30% of all fractures in children and adolescents. This would translate to an approximate incidence of 150-300 cases per 100,000 people.
+---------------------------
+---------------------------
+Left Atrial Diverticulum: A Comprehensive Overview
+
+1. Three Most Common Symptoms:
+Left atrial diverticulum (LAD) is a rare congenital anomaly often asymptomatic. However, when symptoms do occur, the three most common are:
+   a. Palpitations: Patients may experience irregular or rapid heartbeats.
+   b. Dyspnea: Shortness of breath or difficulty in breathing, especially during physical activities.
+   c. Fatigue: A general feeling of tiredness or weakness, which may be exacerbated by physical exertion.
+
+2. Differentiating Radiological Feature:
+The main differentiating radiological feature for LAD is the presence of a well-defined, thin-walled, saccular or tubular outpouching arising from the left atrium. This can be identified through different imaging techniques such as:
+   a. Echocardiography: A non-invasive ultrasound technique used to visualize the heart and its structures.
+   b. Cardiac computed tomography (CT): A high-resolution imaging modality that provides detailed images of the heart and its structures.
+   c. Cardiac magnetic resonance imaging (MRI): A non-invasive imaging technique that provides detailed images of the heart's anatomy and function.
+
+3. Three Most Common Anatomical Locations:
+Left atrial diverticula are typically found in the following anatomical locations:
+   a. Posterolateral wall of the left atrium.
+   b. Superior wall of the left atrium.
+   c. Interatrial septum (rare).
+
+4. Prevalence and Incidence:
+The exact prevalence and incidence of left atrial diverticulum are not well established due to its rarity. However, it is estimated to occur in approximately 1 in 100,000 people. Further research and large-scale population studies are needed to better understand the epidemiology of this rare congenital anomaly.
+---------------------------
+---------------------------
+Wedge Compression Fracture: A Comprehensive Overview
+
+A wedge compression fracture is a type of spinal injury characterized by a vertebral body that has collapsed at the front (anterior) and maintained its height at the back (posterior). This causes the vertebral body to take on a wedge shape, often resulting from trauma or osteoporosis.
+
+Param 1: 3 Most Common Symptoms
+1. Acute or chronic back pain: Patients often experience localized pain at the site of the fracture, which may intensify with movement or weight-bearing activities.
+2. Loss of height: As the vertebral body collapses, individuals may lose height, especially when multiple vertebrae are affected.
+3. Kyphosis: The wedge-shaped vertebrae may lead to an abnormal forward curvature of the spine, known as kyphosis or "hunchback" posture, which can cause discomfort and affect a person's appearance.
+
+Param 2: Differentiating Radiological Feature
+On X-rays or other imaging studies, such as CT or MRI scans, a wedge compression fracture will typically present with a reduction in the anterior height of the vertebral body while the posterior height remains relatively unchanged. This gives the vertebra a wedge-like appearance, which is the key radiological feature differentiating it from other types of vertebral fractures.
+
+Param 3: 3 Most Common Anatomical Locations
+Wedge compression fractures can occur anywhere along the spine but are most commonly found in:
+1. Thoracic spine (T5-T9): This region is particularly susceptible due to its relatively immobile nature and its role in weight-bearing.
+2. Thoracolumbar junction (T12-L1): The junction between the thoracic and lumbar spine is a common site for wedge compression fractures due to the increased stress on this area.
+3. Lumbar spine (L1-L4): Although less common, lumbar spine fractures may still occur, particularly in patients with severe osteoporosis or a history of trauma.
+
+Param 4: Prevalence and Incidence
+The prevalence and incidence of wedge compression fractures are difficult to estimate accurately, as many cases go undiagnosed or unreported. However, studies suggest that the prevalence of vertebral compression fractures (including wedge fractures) ranges from 16-25% in postmenopausal women and 12-18% in men over 50 years of age. In approximate terms, this translates to roughly 1,600 to 2,500 cases per 100,000 people for women and 1,200 to 1,800 cases per 100,000 people for men.
+---------------------------
+---------------------------
+Right frontoparietal scalp contusion. Areas of intracranial hemorrhage including: 1) multiple hemorrhagic contusions predominately at the gray-white junction (most consistent with diffuse axonal injury), 2) 6 mm right posterior parietal convexity subdural hematoma, 3) Bilateral lateral and third ventricular hemorrhage and 4) bilateral frontoparietal convexity trace subarachnoid hemorrhage. Mild diffuse sulcal and basilar cistern effacement, minimal rightward midline shift. No hydrocephalus. 
+---------------------------
+---------------------------
+Diffuse Axonal Injury (DAI) Overview
+
+Param 1 - 3 Most Common Symptoms:
+1. Loss of consciousness: The individual may experience a brief or prolonged loss of consciousness, which can range from a few seconds to hours or even days.
+2. Cognitive difficulties: The patient may face challenges with memory, attention, and problem-solving. These issues can persist even after the person regains consciousness.
+3. Physical impairments: Patients with DAI may exhibit motor function difficulties, such as weakness, poor coordination, or even paralysis.
+
+Param 2 - Differentiating Radiological Feature:
+Diffuse Axonal Injury is often diagnosed using advanced imaging techniques, such as MRI (Magnetic Resonance Imaging). The most distinguishing radiological feature of DAI is the presence of multiple, small, punctate hemorrhages scattered throughout the white matter tracts of the brain, especially in areas where axons are more susceptible to injury.
+
+Param 3 - 3 Most Common Anatomical Locations:
+1. Corpus callosum: This is a large fiber bundle that connects the two hemispheres of the brain, and it is frequently involved in DAI.
+2. Brainstem: Injuries to this area can be particularly severe, as the brainstem controls vital functions like respiration and heart rate.
+3. Cerebral white matter: DAI often affects the long, myelinated axons within the brain's white matter, which are responsible for transmitting information between different brain regions.
+
+Param 4 - Prevalence and Incidence:
+The prevalence and incidence of Diffuse Axonal Injury are not well-established due to its varying degrees of severity and underdiagnosis. However, it is estimated that DAI accounts for approximately 40-50% of all traumatic brain injuries. In general terms, the incidence of traumatic brain injury (TBI) is around 500-600 per 100,000 people per year. Therefore, the approximate incidence of DAI can be estimated to be between 200-300 per 100,000 people per year.
+---------------------------
+---------------------------
+Diffuse Axonal Injury (DAI) Overview
+
+Param 1 - 3 Most Common Symptoms:
+1. Loss of consciousness: The individual may experience a brief or prolonged loss of consciousness, which can range from a few seconds to hours or even days.
+2. Cognitive difficulties: The patient may face challenges with memory, attention, and problem-solving. These issues can persist even after the person regains consciousness.
+3. Physical impairments: Patients with DAI may exhibit motor function difficulties, such as weakness, poor coordination, or even paralysis.
+
+Param 2 - Differentiating Radiological Feature:
+Diffuse Axonal Injury is often diagnosed using advanced imaging techniques, such as MRI (Magnetic Resonance Imaging). The most distinguishing radiological feature of DAI is the presence of multiple, small, punctate hemorrhages scattered throughout the white matter tracts of the brain, especially in areas where axons are more susceptible to injury.
+
+Param 3 - 3 Most Common Anatomical Locations:
+1. Corpus callosum: This is a large fiber bundle that connects the two hemispheres of the brain, and it is frequently involved in DAI.
+2. Brainstem: Injuries to this area can be particularly severe, as the brainstem controls vital functions like respiration and heart rate.
+3. Cerebral white matter: DAI often affects the long, myelinated axons within the brain's white matter, which are responsible for transmitting information between different brain regions.
+
+Param 4 - Prevalence and Incidence:
+The prevalence and incidence of Diffuse Axonal Injury are not well-established due to its varying degrees of severity and underdiagnosis. However, it is estimated that DAI accounts for approximately 40-50% of all traumatic brain injuries. In general terms, the incidence of traumatic brain injury (TBI) is around 500-600 per 100,000 people per year. Therefore, the approximate incidence of DAI can be estimated to be between 200-300 per 100,000 people per year.
+---------------------------
+---------------------------
+Diffuse Axonal Injury (DAI) Overview
+
+Param 1 - 3 Most Common Symptoms:
+1. Loss of consciousness: The individual may experience a brief or prolonged loss of consciousness, which can range from a few seconds to hours or even days.
+2. Cognitive difficulties: The patient may face challenges with memory, attention, and problem-solving. These issues can persist even after the person regains consciousness.
+3. Physical impairments: Patients with DAI may exhibit motor function difficulties, such as weakness, poor coordination, or even paralysis.
+
+Param 2 - Differentiating Radiological Feature:
+Diffuse Axonal Injury is often diagnosed using advanced imaging techniques, such as MRI (Magnetic Resonance Imaging). The most distinguishing radiological feature of DAI is the presence of multiple, small, punctate hemorrhages scattered throughout the white matter tracts of the brain, especially in areas where axons are more susceptible to injury.
+
+Param 3 - 3 Most Common Anatomical Locations:
+1. Corpus callosum: This is a large fiber bundle that connects the two hemispheres of the brain, and it is frequently involved in DAI.
+2. Brainstem: Injuries to this area can be particularly severe, as the brainstem controls vital functions like respiration and heart rate.
+3. Cerebral white matter: DAI often affects the long, myelinated axons within the brain's white matter, which are responsible for transmitting information between different brain regions.
+
+Param 4 - Prevalence and Incidence:
+The prevalence and incidence of Diffuse Axonal Injury are not well-established due to its varying degrees of severity and underdiagnosis. However, it is estimated that DAI accounts for approximately 40-50% of all traumatic brain injuries. In general terms, the incidence of traumatic brain injury (TBI) is around 500-600 per 100,000 people per year. Therefore, the approximate incidence of DAI can be estimated to be between 200-300 per 100,000 people per year.
+---------------------------
+---------------------------
+today i saw many cases which have very high incidences and prevalences including DAI , staller harris fracture and wedge compression fracture
+---------------------------
+---------------------------
+today i saw many cases which have very high incidences and prevalences including DAI , staller harris fracture and wedge compression fracture
+---------------------------
+---------------------------
+Congenital Aqueduct of Sylvius Stenosis Overview
+
+Param 1 - 3 Most Common Symptoms:
+1. Macrocephaly: Enlarged head size due to the accumulation of cerebrospinal fluid (CSF) in the brain's ventricles.
+2. Developmental delays: Affected children may exhibit delays in meeting developmental milestones, such as crawling, walking, or speaking.
+3. Vomiting and irritability: The increased intracranial pressure caused by the buildup of CSF can lead to persistent vomiting and irritability in infants.
+
+Param 2 - Differentiating Radiological Feature:
+Magnetic Resonance Imaging (MRI) is the preferred method for diagnosing Congenital Aqueduct of Sylvius Stenosis. The main radiological feature that differentiates this condition is the dilation of the lateral and third ventricles, while the fourth ventricle remains normal or only mildly enlarged. This is due to the obstruction of CSF flow at the level of the cerebral aqueduct (aqueduct of Sylvius).
+
+Param 3 - 3 Most Common Anatomical Locations:
+1. Cerebral aqueduct (aqueduct of Sylvius): This narrow channel connects the third and fourth ventricles and is the primary site of stenosis in this condition.
+2. Lateral ventricles: These paired, C-shaped cavities within the brain become enlarged as a result of the obstructed CSF flow.
+3. Third ventricle: This midline cavity within the brain is also affected by the stenosis and becomes dilated due to CSF accumulation.
+
+Param 4 - Prevalence and Incidence:
+The prevalence and incidence of Congenital Aqueduct of Sylvius Stenosis are challenging to determine, as the condition is relatively rare. However, it is estimated that the overall incidence of congenital hydrocephalus, which includes this specific type of stenosis, is approximately 1 in 1,000 live births. Congenital Aqueduct of Sylvius Stenosis is thought to account for around 20-30% of congenital hydrocephalus cases. Therefore, the approximate incidence of this condition can be estimated to be around 0.2-0.3 in 1,000 live births or 2-3 in 10,000 live births.
 ---------------------------
