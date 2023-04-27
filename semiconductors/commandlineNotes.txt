@@ -434,3 +434,130 @@ and origin implies the remote repository name
 command line can be visualized as instant access to data
 
 -------------------------------------------------
+awk in linux is used to process the text files
+for example to use awk 
+cat file_name | awk '{print $1}'
+where $1 is the first column of the file
+more examples on how to use awk for processing text files are 
+1.
+cat file_name | awk '{print $1 $2}'
+where $1 is the first column of the file
+and $2 is the second column of the file
+2.
+cat file_name | awk '{print $0} ' 
+where $0 is the whole line of the file
+-------------------------------------------------
+
+to change the field seperator in awk 
+use
+cat file_name | awk -F : '{print $1 $2}'
+where -F: implies that the field seperator is :
+
+-------------------------------------------------
+
+to increase the space between the columns 
+use 
+cat file_name | awk -F : '{print $1,$2}' OFS="\t"
+where OFS="\t" implies that the output field seperator is tab
+or you can use 
+cat file_name | awk -F : '{print $1,$2}' OFS="    "
+where OFS="    " implies that the output field seperator is 4 spaces
+or you can use 
+cat file_name | awk -F : '{print $1"      "$2}'
+where "      " implies that the output field seperator is 6 spaces
+remember to put comma while using OFS
+-------------------------------------------------
+
+to use the BEGIN feature to change the OFS 
+use 
+cat file_name | awk -F : 'BEGIN {OFS="    "} {print $1,$2}'
+where OFS="    " implies that the output field seperator is 4 spaces
+
+or 
+cat file_name | awk 'BEGIN { FS=:  ; OFS="    "} {print $1,$2}'
+
+-------------------------------------------------
+to find all the lines that begin with P 
+you can use 
+cat file_name | awk '/^P/ {print $0}'
+where /^P/ implies that the line begins with P
+-------------------------------------------------
+to find all the lines that have storng "dev" and "loop"
+use in mac 
+cat file_name | awk '/storng/ && /dev/ && /loop/ {print $0}'
+where /storng/ && /dev/ && /loop/ implies that the line has all the three words
+-------------------------------------------------
+best way to out put a awk file is 
+
+awk -F : 'BEGIN {OFS="    "} {print $1,$2}' file_name
+
+-------------------------------------------------
+to find the lines greater than 7 characters 
+use 
+awk -F : 'BEGIN {OFS="    "} {if (length($1) > 7) print $1,$2}' file_name
+this is a sample line 
+awk 'length($0)>7 {print $1 $2}' /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+
+-------------------------------------------------
+
+to iterate throught everyline 
+use 
+awk -F : 'BEGIN {OFS="    "} {for (i=1;i<=NF;i++) print $i}' file_name
+where NF is the number of fields in the line
+where the commands should be in the curly braces or code block
+
+-------------------------------------------------
+
+to use awk substring function to iterate through every line but between
+certain character numbers 
+use
+awk -F : 'BEGIN {OFS="    "} {for (i=1;i<=NF;i++) print substr($i,1,3)}' file_name
+where NF is the number of fields in the line
+where substr($i,1,3) implies that the substring of the ith field from 1 to 3 characters
+
+here is a sample command 
+awk -F : 'BEGIN {OFS="    "} {for (i=1;i<=NF;i++) print substr($i,1,3)}'  /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+
+-------------------------------------------------
+
+to use the number index in the for loop use 
+i 
+but to use the word at the current index use 
+$i
+to use the entire line 
+use
+$0
+
+-------------------------------------------------
+
+to use awk match 
+use
+awk -F : ' match($0 , /P/ ) {print $0}' file_name
+where match($0 , /P/ ) implies that the line has P in it
+
+this is a sample command
+awk -F : ' match($0 , /P/ ) {print $0}'  /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt 
+
+-------------------------------------------------
+
+to run multiple commands in the for loop 
+use
+awk -F : 'BEGIN {OFS="    "} {for (i=1;i<=NF;i++) {print $i; print $i}}' file_name
+where NF is the number of fields in the line
+where the commands should be in the curly braces or code block
+
+-------------------------------------------------
+
+RSTART is the variable that stores the starting index of the match
+use
+awk -F : 'BEGIN {OFS="    "} {for (i=1;i<=NF;i++) {match($i , /P/ ) ; print RSTART}}' file_name
+
+-------------------------------------------------
+
+to iterate from rowindex1 to rowindex2 
+use 
+awk -F : 'NR==1,NR==3 {print $0}' file_name
+where NR==1,NR==3 implies that the rows from 1 to 3 will be printed
+
+-------------------------------------------------
+

@@ -9,7 +9,7 @@ cat "$1" | awk '{
         word = $i;
         prefix = substr(word, 1, 3);
         suffix = substr(word, 4);
-        printf "%s%s%s ", "'${RED}'", prefix, "'${NC}'"suffix;
+        printf "%s%s%s ", "'${RED}'", prefix , "'${NC}'"suffix;
     }
     print "";
 }'
