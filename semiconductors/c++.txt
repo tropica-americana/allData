@@ -14,3 +14,90 @@ the fastest of them all is std::unordered_map
 the reason being that it is implemented using hash tables and hence the search, insertion and removal have average constant time complexity.
 hash tables are implemented using arrays and hence the access time is constant.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------
+
+Regular Expression Basics:
+
+-------------------------------------------------
+
+C++ regular expressions (regex) are a powerful tool for pattern matching and manipulation in strings. The `<regex>` library in C++ provides support for regular expressions. This answer will cover 10 main points, each with sub-points, to give an understanding of regex in C++.
+
+1. Regular Expression Basics:
+   a. Literal characters: represent themselves (e.g., 'a', '1').
+   b. Special characters: have specific meanings (e.g., '.', '*', '+').
+   c. Escape sequences: use backslashes to include special characters as literals (e.g., '\\.', '\\*').
+
+2. Character Classes:
+   a. Predefined: shorthand for common character sets (e.g., '\\d', '\\w', '\\s').
+   b. Custom: define your own character set with square brackets (e.g., '[abc]', '[A-Z]').
+   c. Negation: use '^' inside brackets to negate the character set (e.g., '[^abc]', '[^A-Z]').
+
+3. Quantifiers:
+   a. Greedy: match as many characters as possible (e.g., '*', '+', '?', '{n,m}').
+   b. Lazy: match as few characters as possible (e.g., '*?', '+?', '??', '{n,m}?').
+
+4. Anchors and Boundaries:
+   a. Start of line: '^'.
+   b. End of line: '$'.
+   c. Word boundary: '\\b'.
+   d. Non-word boundary: '\\B'.
+   where the first \ is used to escape the second \ and the second \ is used to escape the b
+
+5. Grouping and Capturing:
+   a. Grouping: use parentheses to group regex elements (e.g., '(ab)c').
+   b. Capturing: capture the matched substring for future use (e.g., '(\\d{4})').
+
+6. Alternation:
+   a. Use the '|' symbol to match one of several alternatives (e.g., 'a|b', 'cat|dog').
+
+7. Backreferences:
+   a. Refer to captured groups within the same regex (e.g., '\\1', '\\2').
+   b. Useful for finding repeated patterns or replacing text.
+
+8. C++ `<regex>` Library:
+   a. `std::regex`: the main regex class.
+   b. `std::smatch`: class to hold match results.
+   c. `std::regex_match`: check if a string matches a regex entirely.
+   d. `std::regex_search`: search for a regex within a string.
+   e. `std::regex_replace`: replace regex matches with new text.
+   f. `std::regex_iterator`: iterate over regex matches in a string.
+
+9. Regex Syntax Options:
+   a. ECMAScript (default): the standard regex syntax.
+   b. Basic and Extended POSIX: simpler regex syntax.
+   c. Awk, Grep, and Egrep: Unix utilities-based syntax.
+   d. Set syntax with `std::regex::flag_type`.
+I LIKE AWK MORE THAN OTHERS
+
+-------------------------------------------------
+Word boundaries are used in regular expressions (regex) to specify the positions where a word starts or ends in a string. The symbol for a word boundary is \b.
+
+When using the regex \bcat\b to search for the word "cat", it will ensure that the pattern only matches if "cat" appears as a separate word in the string. It won't match if "cat" is a part of another word.
+
+For example, if you want to match the word "cat" in the string "catapult", the regex \bcat\b will NOT match, because "cat" is part of the word "catapult" and not a separate word.
+
+On the other hand, if you want to match the word "cat" in the string "concatenate", the regex \bcat\b will also NOT match, because "cat" is part of the word "concatenate" and not a separate word.
+
+However, if you have a string like "The cat is on the mat", the regex \bcat\b will match the word "cat" as it is a separate word in this string.
+-------------------------------------------------
+-------------------------------------------------
+
+grouping and capturing
+to use grouping and capturing, we use paranthesis in the regex expression
+for example, if we want to match a word that starts with a vowel and ends with the same vowel, we can use the following regex expression:
+([aeiou]).*\1
+here, the paranthesis are used to group the first vowel and the \1 is used to refer to the first group
+
+the best video so far 
+https://www.youtube.com/watch?v=kkpMPk0wi_o
+-------------------------------------------------
+-------------------------------------------------
+
+quantifiers
+
+-------------------------------------------------
+
+SAMPLE_STRING="measure-marketer "
+SAMPLE_STRING2="measure.marketer"
+
+to match both of them you can use m*[.-]m*

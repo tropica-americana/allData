@@ -492,6 +492,7 @@ best way to out put a awk file is
 awk -F : 'BEGIN {OFS="    "} {print $1,$2}' file_name
 
 -------------------------------------------------
+
 to find the lines greater than 7 characters 
 use 
 awk -F : 'BEGIN {OFS="    "} {if (length($1) > 7) print $1,$2}' file_name
@@ -561,3 +562,16 @@ where NR==1,NR==3 implies that the rows from 1 to 3 will be printed
 
 -------------------------------------------------
 
+to use match function in awk 
+use
+awk -F : 'BEGIN {OFS="    "} {for (i=1;i<=NF;i++) {match($i , /P/ ) ; print RSTART}}' file_name
+where NF is the number of fields in the line
+where the commands should be in the curly braces or code block
+
+to match different columns with different patterns
+use
+-------------------------------------------------
+
+evt sold 1000 shares of ongc @ 158.05
+
+-------------------------------------------------

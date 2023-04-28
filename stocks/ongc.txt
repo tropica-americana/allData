@@ -1,197 +1,349 @@
-(` in million)
-2021-22
-2020-21
-2019-20 *
-2018-19 *
-2017-18
-2016-17
-2015-16 *
-2014-15
-2013-14
-2012-13
+Screener Logo
+FEED
+SCREENS
+TOOLS 
+Search for a company
+ SACHIN 
+O N G C
+Chart
+Analysis
+Peers
+Quarters
+Profit & Loss
+Balance Sheet
+Cash Flow
+Ratios
+Investors
+Documents
+ Notebook
+Oil &amp; Natural Gas Corpn Ltd
+₹ 160
+ -0.68%
+27 Apr - close price
+ EXPORT TO EXCEL
+ UNFOLLOW
+ ongcindia.com
+ BSE: 500312
+ NSE : ONGC
+ABOUT
+ONGC is the largest crude oil and natural gas Company in India, contributing around 71 per cent to Indian domestic production
 
-REVENUES
-Sales #
-Crude Oil (Including Condensate)
-Natural Gas (incl. Gas Marketing Margin)
-Liquified Petroleum Gas (LPG)-Domestic Market
-Ethane-Propane (C2-C3)/ Ethane/ Propane / Butane
-Naphtha
-Kerosene (SKO)
-HSD
-LSHS (Low sulpher heavy stock)/RCO (Residual Crude oil)
-Aviation Turbine Fuel Others
-Sub- Total
-Sale of Traded Products Other Operating Income Revenue from Operations Dividend Income
-Other Non Operating Income
-Total Revenues
-EXPENSES
-Royalty
-OIDB Cess
-Motor Spirit Cess
-Natural Calamity Contingent Duty
-Excise Duty
-Road and Infrastructure Cess
-Sales Tax #
-Service Tax
-Education cess
-Octroi and Port Trust Charges #
-Sub-total
-Operating Expenses
-Exchange Loss-Net
-Purchases
-(Accretion) / Decretion in stock
-Exploration Costs written off
--Survey Costs
--Exploratory well Costs
-Depreciation, Depletion, Amortisation and Impairment
-Provisions and Write-offs
-Prior Period Expenses (Net)
-Total Expenses
-836,612 124,414 46,752 36,715 50,640
-880 1,018 839
-1,544 209 1,099,623 - 3,831 1,103,454 42,519 22,637
-1,168,610
-136,057 141,261 - 974
-265 222
-- - -
-543
-279,322
-217,889 2,984 - (1,429)
-17,644
-37,439 175,457
-5,305 -
-479,338 114,216 31,973 23,962 26,081
-837 1,531 538
-336 97 678,909 - 2,502 681,411 30,630 40,795
-752,836
-81,354 80,187 - 989
-539 734
-- - -
-434
-164,237
-189,525 - - (4,264)
-17,245
-46,610 163,274
-3,786 -
-648,363 193,556 36,038 32,551 39,863
-2,465 2,390 747
-889
-152 957,014 - 5,122 962,136 24,664 41,438
-1,028,238
-115,076 107,878 - 1,020
-478 910
-- - -
-346
-225,708
-215,840 16,772 - 2,470
-16,879
-69,958 186,169
-8,476 -
-775,729 188,389 43,490 32,590 46,861
-3,355 1,155 694
-519
-217 1,092,999 - 3,547 1,096,546 31,054 41,598
-1,169,198
-134,600 128,568 - 1,063
-268 183
-- - -
-322
-265,004
-226,386 4,769 - (1,665)
-18,514
-69,055 154,561
-7,362 -
-603,899 137,372 40,352 24,226 38,084
-1,178 - 482
-- 209 845,802 - 4,239 850,041 37,810 41,026
-928,877
-99,090 99,638 - 1,122
-410
-- 334 - 390
-200,984
-206,602 - - (630)
-14,801
-55,517 144,702
-2,891 -
-548,036 139,398 37,276 17,264 30,455
-1,321 421 562
-- 131 774,864 31 4,183 779,078 16,969 59,794
-855,841
-115,748 89,045 - 1,129
-2,093
-- 289 - 354
-208,658
-210,082 - 26 (1,329)
-17,549
-32,996 121,895
-1,592 -
-511,316 182,239 34,951 9,441 30,609
-2,118 406 412
-- 76 771,568 84 5,765 777,417 5,712 64,382
-847,511
-89,591 101,916 - 1,137
-1,990
-- 339 - 333
-195,306
-197,672 1,033 72 352
-15,274
-41,369 110,999
-3,938 -
-536,638 187,381 34,380 10,064 50,835
-2,771 312 705
-286 56 823,428 60 7,447 830,935 4,890 48,775
-884,600
-116,079 102,535 - 1,123
-2,206
-2,586 290 91 6,083
-230,993
-163,654 241 44 (1,674)
-19,146
-86,078 114,583
-2,116 3,839
-525,734 183,291 30,145 14,837 75,743
-2,779 522 1,295
-220 87 834,653 44 7,331 842,028 3,744 63,388
-909,160
-114,890 99,734 3 1,097
-3,076
-3,123 439 2,348 4,897
-229,607
-165,833 1,021 32 1,043
-15,912
-62,445 109,259
-2,189 (2,504)
-533,269 165,400 31,484 13,440 76,804
-3,686 170 1,063
-318 38 825,672 43 7,375 833,090 4,615 49,752
-887,457
-108,094 99,971 - 1,101
-3,093
-3,834 353 3,111 4,057
-223,614
-153,839 922 31 (230)
-15,668 84,763 83,736
-18,863 531
-734,611
-580,413
-742,272
-743,986
-624,867
-591,469
-566,015
-619,020
-584,837
-581,737
-(` in million)
-2021-22
-2020-21
-2019-20 *
-2018-19 *
-2017-18
-2016-17
-2015-16 *
-2014-15
-2013-14
-2012-13
-STANDALONE PERFORMANCE AT A GLANCE
+KEY POINTS
+History[1] ONGC was established in 1956 by the Government of India for oil exploration. With 60+ years of oil exploration, ONGC has discovered 8 out of 9 producing basins of India: 1958 at Gujarat, 1963 at Assam, 1967 at Rajasthan, 1974 at Mumbai, 1980 at Krishna Godavari, 1985 at Cauvery, 2019 at Bengal &amp; 2022 at Vindhyan.
+
+READ MORE 
+Market Cap
+₹ 2,01,347 Cr.
+Current Price
+₹ 160
+High / Low
+₹ 168 / 120
+Stock P/E
+5.15
+Book Value
+₹ 222
+Dividend Yield
+6.72 %
+ROCE
+16.8 %
+ROE
+19.5 %
+Face Value
+₹ 5.00
+Debt to equity
+0.54
+Sales growth 5Years
+11.7 %
+Debt
+₹ 1,50,352 Cr.
+Reserves
+₹ 2,72,621 Cr.
+Current assets
+₹ 1,34,875 Cr.
+Current liabilities
+₹ 1,41,420 Cr.
+Cont Liab
+₹ 76,693 Cr.
+Net profit
+₹ 39,138 Cr.
+Tax
+₹ 13,793 Cr.
+Interest
+₹ 7,312 Cr.
+Return on equity
+19.5 %
+Equity capital
+₹ 6,290 Cr.
+ROCE
+16.8 %
+Dividend last year
+₹ 13,209 Cr.
+Int Coverage
+8.62
+Dividend Payout
+29.0 %
+Operating profit
+₹ 78,101 Cr.
+Total Assets
+₹ 6,28,557 Cr.
+Add ratio to table
+eg. Promoter holding
+ EDIT RATIOS
+1m
+6m
+1Yr
+3Yr
+5Yr
+10Yr
+Max
+Price
+PE Ratio
+More 
+
+Price on NSE
+50 DMA
+200 DMA
+Volume
+PROS
+
+Stock is trading at 0.72 times its book value
+Stock is providing a good dividend yield of 6.72%.
+Company is expected to give good quarter
+Company has been maintaining a healthy dividend payout of 38.3%
+CONS
+
+The company has delivered a poor sales growth of 11.7% over past five years.
+Company has a low return on equity of 11.7% over last 3 years.
+Contingent liabilities of Rs.76,693 Cr.
+* The pros and cons are machine generated. 
+
+Peer comparison
+Sector: Crude Oil &amp; Natural Gas Industry: Oil Drilling / Allied Services
+
+ EDIT COLUMNS
+S.No.	Name	CMP Rs.	P/E	Mar Cap Rs.Cr.	Div Yld %	NP Qtr Rs.Cr.	Qtr Profit Var %	Sales Qtr Rs.Cr.	Qtr Sales Var %	ROCE %
+1.	O N G C	160.05	5.15	201347.37	6.72	11665.24	5.15	169212.63	16.16	16.79
+2.	Oil India	256.85	3.06	27852.95	5.65	2528.59	76.02	9301.98	37.14	21.55
+3.	Hind.Oil Explor.	151.25	18.82	2000.18	0.00	37.34	158.93	169.83	286.59	6.06
+4.	Selan Expl. Tech	258.70	13.79	393.22	1.93	7.61	145.48	29.01	48.85	2.34
+5.	Asian Energy	96.95		372.24	0.00	-10.41	-331.33	28.89	-58.72	18.13
+6.	Aban Offshore	39.30		229.38	0.00	-287.41	12.16	78.94	-42.20	
+7.	Guj.Nat.Resour.	14.37		115.32	0.00	-1.98	4.35	3.26	117.33	-2.89
+Median: 7 Co.	151.25	9.47	393.22	0.0	7.61	12.16	78.94	37.14	11.42
+Detailed Comparison with:
+eg. Infosys
+Quarterly Results
+Consolidated Figures in Rs. Crores / View Standalone
+
+GEOGRAPHICAL SEGMENTS
+Dec 2019	Mar 2020	Jun 2020	Sep 2020	Dec 2020	Mar 2021	Jun 2021	Sep 2021	Dec 2021	Mar 2022	Jun 2022	Sep 2022	Dec 2022
+Sales +	109,466	104,374	62,496	83,619	100,289	114,124	108,105	122,066	145,673	155,920	182,894	168,656	169,213
+Expenses  +	93,828	100,837	54,218	69,750	89,009	98,639	91,822	104,270	124,306	131,888	164,039	155,313	147,342
+Operating Profit	15,638	3,537	8,278	13,869	11,279	15,485	16,283	17,796	21,367	24,032	18,855	13,343	21,871
+OPM %	14%	3%	13%	17%	11%	14%	15%	15%	15%	15%	10%	8%	13%
+Other Income  +	2,245	-5,128	1,198	1,371	2,379	6,883	1,775	1,913	2,882	623	1,617	2,317	2,804
+Interest	1,536	2,314	1,627	1,179	1,158	1,116	1,440	1,377	1,388	1,491	1,640	1,993	2,188
+Depreciation	7,457	6,775	5,848	5,624	6,495	7,572	6,423	6,230	6,850	7,380	6,611	4,443	6,784
+Profit before tax	8,890	-10,680	2,002	8,438	6,006	13,681	10,194	12,102	16,011	15,784	12,221	9,224	15,702
+Tax %	39%	37%	46%	33%	39%	20%	33%	-55%	27%	24%	30%	26%	26%
+Net Profit	5,459	-6,726	1,085	5,675	3,637	10,963	6,847	18,749	11,637	12,061	8,581	6,830	11,665
+EPS in Rs	3.96	-5.04	0.09	3.35	2.00	7.52	4.76	14.35	8.69	8.39	9.49	6.60	9.13
+Raw PDF													
+Profit &amp; Loss
+Consolidated Figures in Rs. Crores / View Standalone
+
+GEOGRAPHICAL SEGMENTS
+Mar 2011	Mar 2012	Mar 2013	Mar 2014	Mar 2015	Mar 2016	Mar 2017	Mar 2018	Mar 2019	Mar 2020	Mar 2021	Mar 2022	TTM
+Sales +	113,844	140,147	161,984	174,121	160,923	124,036	282,506	322,706	421,624	396,728	303,849	491,216	676,683
+Expenses  +	79,928	94,797	118,482	124,991	118,610	84,901	229,702	265,817	346,805	344,623	254,375	411,342	598,582
+Operating Profit	33,916	45,350	43,501	49,130	42,312	39,135	52,804	56,889	74,819	52,105	49,473	79,874	78,101
+OPM %	30%	32%	27%	28%	26%	32%	19%	18%	18%	13%	16%	16%	12%
+Other Income  +	3,718	11,075	5,488	7,170	5,955	1,067	12,724	10,429	9,567	982	11,271	6,797	7,360
+Interest	438	435	484	624	2,864	3,766	3,591	4,999	5,837	7,489	5,079	5,696	7,312
+Depreciation	2,883	13,187	11,763	16,262	18,033	16,384	20,219	23,112	23,704	26,635	25,538	26,883	25,218
+Profit before tax	34,313	42,804	36,742	39,413	27,370	20,052	41,718	39,208	54,846	18,962	30,126	54,091	52,931
+Tax %	33%	34%	35%	32%	35%	35%	30%	34%	38%	40%	29%	9%	
+Net Profit	22,828	28,428	23,994	26,665	17,703	13,102	29,169	26,068	33,938	11,456	21,360	49,294	39,138
+EPS in Rs	17.50	21.93	18.87	20.65	14.29	10.03	19.03	17.23	24.28	8.59	12.96	36.19	33.61
+Dividend Payout %	33%	30%	34%	31%	44%	56%	40%	38%	29%	58%	28%	29%	
+Compounded Sales Growth
+10 Years:	13%
+5 Years:	12%
+3 Years:	5%
+TTM:	38%
+Compounded Profit Growth
+10 Years:	6%
+5 Years:	14%
+3 Years:	14%
+TTM:	-9%
+Stock Price CAGR
+10 Years:	-3%
+5 Years:	-2%
+3 Years:	32%
+1 Year:	-3%
+Return on Equity
+10 Years:	12%
+5 Years:	12%
+3 Years:	12%
+Last Year:	20%
+Balance Sheet
+Consolidated Figures in Rs. Crores / View Standalone
+
+CORPORATE ACTIONS
+Mar 2011	Mar 2012	Mar 2013	Mar 2014	Mar 2015	Mar 2016	Mar 2017	Mar 2018	Mar 2019	Mar 2020	Mar 2021	Mar 2022	Sep 2022
+Share Capital  +	4,278	4,278	4,278	4,278	4,278	4,278	6,417	6,417	6,290	6,290	6,290	6,290	6,290
+Reserves	111,049	132,161	148,250	167,874	176,177	193,536	187,969	197,602	210,644	198,814	214,691	253,213	272,621
+Borrowings  +	6,704	15,973	20,686	49,113	53,944	45,500	80,029	106,550	107,742	129,473	133,187	121,986	150,352
+Other Liabilities  +	71,495	79,771	80,211	103,711	103,448	98,459	170,111	148,664	167,667	173,787	187,580	201,830	199,294
+Total Liabilities	193,527	232,183	253,424	324,976	337,847	341,772	444,525	459,232	492,343	508,364	541,748	583,319	628,557
+Fixed Assets  +	35,859	38,542	49,104	64,655	88,928	46,385	81,510	82,970	86,011	103,848	104,466	111,050	295,544
+CWIP	34,760	49,698	53,385	72,034	63,393	57,668	59,042	61,512	69,056	83,832	100,309	106,719	75,893
+Investments	3,100	2,921	2,128	4,746	4,749	33,387	70,746	67,335	66,909	56,755	60,320	66,642	71,044
+Other Assets  +	119,808	141,022	148,807	183,541	180,776	204,332	233,227	247,416	270,367	263,929	276,653	298,907	186,076
+Total Assets	193,527	232,183	253,424	324,976	337,847	341,772	444,525	459,232	492,343	508,364	541,748	583,319	628,557
+Cash Flows
+Consolidated Figures in Rs. Crores / View Standalone
+
+Mar 2011	Mar 2012	Mar 2013	Mar 2014	Mar 2015	Mar 2016	Mar 2017	Mar 2018	Mar 2019	Mar 2020	Mar 2021	Mar 2022
+- Cash from Operating Activity  +	49,085	46,129	39,874	53,270	33,950	46,292	45,780	56,792	61,458	70,593	47,185	78,000
+Profit from operations	52,849	65,941	58,306	59,570	54,535	46,768	58,077	67,335	86,600	67,907	58,661	87,824
+Receivables	-3,373	-1,195	-4,431	571	-6,040	7,835	-2,128	-1,744	-2,252	6,145	-6,666	-3,067
+Inventory	-393	-4,688	292	-2,202	4,462	491	-6,594	-751	-4,682	957	-11,681	-9,672
+Payables	10,462	4,329	189	20,772	-3,972	579	-6,214	5,875	9,441	6,161	13,406	18,365
+Loans Advances	158	-1,174	-881	-137	-3,007	145	123	-1,866	-6,374	2,622	5,236	-451
+Other WC items	-99	-4,322	-1,176	-14,801	-3,078	-1,863	12,140	-1,261	-5,951	-3,182	-4,235	-1,504
+Working capital changes	6,755	-7,051	-6,007	4,203	-11,635	7,186	-2,673	254	-9,817	12,702	-3,940	3,671
+Direct taxes	-10,517	-12,779	-12,416	-10,567	-9,029	-7,662	-9,624	-10,798	-15,326	-10,017	-7,537	-13,495
+Other operating items	0	18	-9	64	80	0	0	0	0	0	0	0
+Exceptional CF items	-2	0	0	0	0	0	0	0	0	0	0	0
+- Cash from Investing Activity  +	-32,120	-38,375	-41,220	-63,633	-30,058	-38,256	-43,815	-66,798	-37,132	-53,159	-39,141	-40,345
+Fixed assets purchased	-19,704	-19,143	-17,961	-14,938	-16,906	-15,120	-20,524	-27,815	-25,963	-42,258	-32,319	-33,457
+Fixed assets sold	19	123	17	3	9	26	189	83	203	401	281	367
+Investments purchased	-1,145	-3	-83	-0	-0	-3,003	-631	-240	-236	-235	-327	-836
+Investments sold	3,201	130	879	65	33	-0	140	5,010	-0	-0	-0	-0
+Interest received	2,151	2,979	3,594	3,145	2,993	2,892	2,807	2,465	1,932	1,797	1,606	1,946
+Dividends received	426	365	320	355	468	1,025	1,864	4,599	6,486	5,032	4,310	4,388
+Investment in group cos	-0	-0	26	-0	-0	-708	-12,482	-3,368	-1,468	-838	-2,526	-2,447
+Other investing items	-17,068	-22,826	-28,013	-52,262	-16,655	-23,368	-15,177	-47,532	-18,085	-17,058	-10,165	-10,306
+- Cash from Financing Activity  +	-11,670	102	-6,927	15,225	-10,641	-8,972	-1,867	9,909	-23,324	-16,726	-8,239	-35,979
+Proceeds from shares	0	0	57	0	0	0	0	0	0	0	0	0
+Proceeds from borrowings	1,302	9,815	0	0	0	4,138	15,991	33,376	8,230	27,871	18,834	17,688
+Repayment of borrowings	-1,261	-662	0	0	0	-4,332	0	-9,316	-11,362	-25,460	-13,534	-30,682
+Interest paid fin	-420	-573	-687	-709	-3,003	-2,399	-2,126	-2,924	-4,056	-4,241	-3,834	-4,576
+Dividends paid	-10,142	-7,366	-9,496	-8,345	-7,920	-4,917	-15,350	-9,496	-10,086	-8,297	-3,096	-12,924
+Financial liabilities	0	0	0	0	0	0	0	0	0	-5,038	-5,688	-5,207
+Share application money	410	15	0	178	0	0	0	0	0	0	0	0
+Other financing items	-1,557	-1,128	3,199	24,101	283	-1,462	-382	-1,731	-6,051	-1,561	-921	-278
+Net Cash Flow	5,295	7,856	-8,273	4,862	-6,749	-935	99	-97	1,001	708	-195	1,676
+Ratios
+Consolidated Figures in Rs. Crores / View Standalone
+
+Mar 2011	Mar 2012	Mar 2013	Mar 2014	Mar 2015	Mar 2016	Mar 2017	Mar 2018	Mar 2019	Mar 2020	Mar 2021	Mar 2022
+Debtor Days	32	31	35	34	43	25	16	16	13	8	19	14
+Inventory Days	99	108	80	79	65	105	65	56	48	46	85	60
+Days Payable	170	139	112	155	175	290	51	48	41	31	51	44
+Cash Conversion Cycle	-39	-0	3	-43	-67	-161	30	24	21	23	54	31
+Working Capital Days	-34	-19	-1	-29	-18	-46	-57	-9	-2	-20	3	-6
+ROCE %	28%	29%	23%	20%	13%	13%	17%	15%	20%	11%	10%	17%
+Shareholding Pattern
+Numbers in percentages
+
+DEALS / TRADES
+Jun 2020	Sep 2020	Dec 2020	Mar 2021	Jun 2021	Sep 2021	Dec 2021	Mar 2022	Jun 2022	Sep 2022	Dec 2022	Mar 2023
+Promoters  +	60.41	60.41	60.41	60.41	60.41	60.41	60.41	58.91	58.89	58.89	58.89	58.89
+FIIs +	8.10	7.69	7.67	8.08	8.06	8.08	8.87	9.91	9.97	8.96	8.43	7.97
+DIIs +	17.37	17.54	17.71	17.48	17.60	17.87	17.19	16.36	17.83	18.53	19.27	19.87
+Government  +	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	10.30	10.30	10.30
+Public +	14.13	14.36	14.21	14.03	13.93	13.64	13.53	14.82	13.31	3.32	3.10	2.94
+* The classifications might have changed from Sep'2022 onwards. 
+
+Documents
+Announcements
+Recent
+Important
+Search
+All 
+Format of the Initial Disclosure to be made by an entity identified as a Large Corporate : Annexure A 11h
+Compliance Certificate Under Regulation 40(10) Of SEBI (LODR) Regulations, 2015
+21 Apr - Compliance certificate issued by SGS Associates LLP, Practicing Company Secretaries for the financial year ended March 31, 2023.
+Announcement under Regulation 30 (LODR)-Investor Presentation 17 Apr
+COMPLIANCE CERTIFICATE FOR YEAR ENDED 31St MARCH 2023
+15 Apr - Compliance certificate under Regulation 7(3) of SEBI (LODR) Regulations, 2015 for the year ended 31.03.2023
+Schedule Of Analysts/ Institutional Investor Meet 14 Apr
+
+Annual reports
+Financial Year 2022
+from bse
+Financial Year 2021
+from bse
+Financial Year 2020
+from bse
+Financial Year 2019
+from bse
+Financial Year 2018
+from bse
+Financial Year 2017
+from bse
+Financial Year 2016
+from bse
+Financial Year 2015
+from bse
+Financial Year 2014
+from bse
+Financial Year 2013
+from nse
+Financial Year 2013
+from bse
+Financial Year 2012
+from bse
+Financial Year 2012
+from nse
+Financial Year 2011
+from bse
+Financial Year 2011
+from nse
+Financial Year 2010
+from nse
+Financial Year 2010
+from bse
+
+DRHP 
+Concalls
+ Add Missing
+Apr 2023
+Transcript
+Notes
+PPT
+May 2022
+Transcript
+Notes
+PPT
+Aug 2018
+Transcript
+Notes
+PPT
+May 2017
+Transcript
+Notes
+PPT
+Screener Logo
+Stock analysis and screening tool
+
+Mittal Analytics Private Ltd © 2009-2023
+Made with  in India.
+
+Data provided by C-MOTS Internet Technologies Pvt Ltd
+
+Terms & Privacy.
+
+Product
+Home
+Premium
+What's new?
+Team
+About us
+Support
+Theme
+ Light
+ Dark
+ Auto
