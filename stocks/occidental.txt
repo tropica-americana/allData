@@ -1,0 +1,143 @@
+
+INCOME STATEMENT
+BALANCE SHEET
+CASH FLOW
+SEC FILINGS
+ANNUAL
+QUARTERLY
+Operating Activities
+Fiscal year is January-December. All values USD.
+ITEM
+ITEM
+2018
+2019
+2020
+2021
+2022
+5-YEAR TREND
+Net Income before Extraordinaries
+Net Income before Extraordinaries
+4.13B
+(522M)
+(14.83B)
+2.32B
+13.3B
+Net Income Growth
+Net Income Growth
+-
+-112.64%
+-2,741.19%
+115.66%
+472.95%
+Depreciation, Depletion &amp; Amortization
+Depreciation, Depletion &amp; Amortization
+4.03B
+6.23B
+8.14B
+8.57B
+7.01B
+Depreciation and Depletion
+Depreciation and Depletion
+-
+-
+-
+-
+-
+Amortization of Intangible Assets
+Amortization of Intangible Assets
+-
+-
+-
+-
+-
+Deferred Taxes &amp; Investment Tax Credit
+Deferred Taxes &amp; Investment Tax Credit
+371M
+(1.03B)
+(2.52B)
+46M
+(1.64B)
+Deferred Taxes
+Deferred Taxes
+371M
+(1.03B)
+(2.52B)
+46M
+(1.64B)
+Investment Tax Credit
+Investment Tax Credit
+-
+-
+-
+-
+-
+Other Funds
+Other Funds
+(422M)
+1.67B
+14.44B
+920M
+(535M)
+Funds from Operations
+Funds from Operations
+8.11B
+6.35B
+5.23B
+11.86B
+18.14B
+Extraordinaries
+Extraordinaries
+-
+-
+-
+-
+-
+Changes in Working Capital
+Changes in Working Capital
+(444M)
+1.03B
+(1.28B)
+(1.43B)
+(1.33B)
+Receivables
+Receivables
+(740M)
+401M
+2.06B
+(2.09B)
+(97M)
+Accounts Payable
+Accounts Payable
+195M
+358M
+(3.23B)
+865M
+(478M)
+Other Assets/Liabilities
+Other Assets/Liabilities
+171M
+170M
+350M
+(119M)
+(335M)
+Net Operating Cash Flow
+Net Operating Cash Flow
+7.67B
+7.38B
+3.96B
+10.43B
+16.81B
+Net Operating Cash Flow Growth
+Net Operating Cash Flow Growth
+-
+-3.83%
+-46.37%
+163.82%
+61.11%
+Net Operating Cash Flow / Sales
+Net Operating Cash Flow / Sales
+49.25%
+38.38%
+23.08%
+40.19%
+46.37%

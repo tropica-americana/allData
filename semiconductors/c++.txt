@@ -101,3 +101,8 @@ SAMPLE_STRING="measure-marketer "
 SAMPLE_STRING2="measure.marketer"
 
 to match both of them you can use m*[.-]m*
+-------------------------------------------------
+
+std::make_tuple( param1 , param2 ,....... param ) is and underrated method , also , to get the values from the tuple you can use std::get<index>
+
+-------------------------------------------------

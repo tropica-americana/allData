@@ -528,7 +528,6 @@ $i
 to use the entire line 
 use
 $0
-
 -------------------------------------------------
 
 to use awk match 
@@ -572,6 +571,20 @@ to match different columns with different patterns
 use
 -------------------------------------------------
 
-evt sold 1000 shares of ongc @ 158.05
+ to use a regular expression in a shell script use
+for ITEM in $@
+do
+    if [[ =~ ^[1-9]$ ]]
 
+-------------------------------------------------
+
+grep -q -F "$TODAYS_DATE" "$HABITTEXTFILE"
+where -q implies quiet mode
+where -F implies fixed string that is the string is not a regular expression nor does it contain any regular expression characters and special characters are not interpreted as special characters
+where $TODAYS_DATE is the date
+where $HABITTEXTFILE is the file name
+where $TODAYS_DATE is the date
+where $HABITTEXTFILE is the file name
+
+exit status of the above command can be used later in the script 
 -------------------------------------------------
