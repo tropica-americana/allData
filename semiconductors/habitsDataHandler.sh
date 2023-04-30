@@ -43,9 +43,9 @@ event_description=${@:2}
 
 # Append the input to the corresponding habit using awk
 awk -v date="$TODAYS_DATE" -v rod="$ROD" -v habit_number="$habit_number" -v event_description="event \"$event_description\"" '
-BEGIN {OFS=FS=""}
+BEGIN {OFS=FS=""; habit_pattern="HABIT " habit_number "$"}
 $0 ~ date, $0 ~ rod {
-    if ($0 ~ "HABIT " habit_number) {
+    if ($0 ~ habit_pattern) {
         print $0; print event_description; next
     }
 }

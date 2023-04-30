@@ -1,0 +1,59 @@
+-----------------------------------------------------------------------
+2023-04-29
+--------------
+HABIT 1
+event "i accepted my mistake of not using chat gpt and later used it to make the script"
+--------------
+HABIT 2
+--------------
+HABIT 3
+--------------
+HABIT 4
+--------------
+HABIT 5
+--------------
+HABIT 6
+--------------
+HABIT 7
+--------------
+HABIT 8
+--------------
+HABIT 9
+--------------
+HABIT 10
+event "i made the habit shell script in one go"
+-----------------------------------------------------------------------
+2023-04-30
+--------------
+HABIT 1
+event "accepted the fact that i was following habits the wrong way , each event does not require a individual habit but some of all habits"
+event "violation --> went into similar cues and expected different results from another person but the results didnt change"
+--------------
+HABIT 2
+event "violation --> agreed to helping to apply for xyz for xyz just because i can"
+--------------
+HABIT 3
+event "i went ahead and called xyz which made xyz happy"
+event "thinking that i was obliged to help someone when he got into a xyz situtaion when i was not and i was not the one who got him in it"
+--------------
+HABIT 4
+event "didnt classify not getting replied to as under my control"
+--------------
+HABIT 5
+event "i found out the correct question i the situtaion -> is it worth getting sad over"
+--------------
+HABIT 6
+event "there is only one major type of investment that gives return , investment of your interest"
+event "violation --> incorrect investment of expectations in the wrong person"
+--------------
+HABIT 7
+event "violation --> did not smile in the time of adversity"
+--------------
+HABIT 8
+--------------
+HABIT 9
+event "didnt violate any law of not using higher levels of speech body and thought coordination"
+--------------
+HABIT 10
+event "i correctly manage stack"
+event "i regularly complete my tasks that i write in one go even though they might be small"
