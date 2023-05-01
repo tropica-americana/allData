@@ -11,9 +11,10 @@ OPEN="open"
 IDEA="idea"
 EVENT="evt"
 STORY="stry"
+PROMPT="prompt"
 COMMANDLINE="cmd"
 BIONIFY="/Users/sachinjain/Desktop/AllData/semiconductors/bionify.sh" # cat command on steroids
-VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE)
+VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE $PROMPT)
 USER_INPUT="-------------------------------------------------\n\n$@\n\n-------------------------------------------------"
 
 if [[ $INPUT == $OPEN ]]; then
@@ -44,6 +45,17 @@ elif [[ $INPUT == $C_PLUS_PLUS ]]; then
     fi
     echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/semiconductors/c++.txt
 
+elif [[ $INPUT == $PROMPT ]]; then
+    if [[ $SECONDINPUT == $OPEN ]]; then
+        open /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "cat" ]]; then 
+        $BIONIFY /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
+        exit 0
+    fi
+    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
+    
 elif [[ $INPUT == $CVS ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
         open /Users/sachinjain/Desktop/AllData/medicine/uworld/CVS/CVS.txt

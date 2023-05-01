@@ -1,0 +1,2 @@
+Field
+We have alluded to the idea that MRI is based on the interaction of a nuclear spin with an external magnetic field, B⃗0. The dominant nucleus in MRI is the proton in hydrogen and its interaction with the external field results in the precession of the proton spin about the field direction (see Fig. 1.1). Imaging of humans rests on the ability to manipulate, with a combination of magnetic fields, and then detect, the bulk precession of the hydrogen spins in water, fat and other organic molecules.
