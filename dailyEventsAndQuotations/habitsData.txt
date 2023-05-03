@@ -57,3 +57,66 @@ event "didnt violate any law of not using higher levels of speech body and thoug
 HABIT 10
 event "i correctly manage stack"
 event "i regularly complete my tasks that i write in one go even though they might be small"
+-----------------------------------------------------------------------
+2023-05-02
+--------------
+HABIT 1
+event "is this a mistake "
+--------------
+HABIT 2
+event "am i under a moral obligation"
+--------------
+HABIT 3
+event "am i finding a flaw in a living being"
+--------------
+HABIT 4
+event "can i control the situation some how  if yes  how "
+--------------
+HABIT 5
+event "is this the correct question"
+event "what is the right question at this moment "
+--------------
+HABIT 6
+event "is this an opportunity "
+--------------
+HABIT 7
+event "is the facial expression correct "
+--------------
+HABIT 8
+event "are there other possibilities"
+--------------
+HABIT 9
+event "am i hyper responsive"
+--------------
+HABIT 10
+event "is this event and task under priority"
+-----------------------------------------------------------------------
+2023-05-03
+--------------
+HABIT 1
+--------------
+HABIT 2
+--------------
+HABIT 3
+--------------
+HABIT 4
+--------------
+HABIT 5
+event "is it possible to train my computer to be the best in the field of radiology"
+event "which is the thing i can specialize in and be the best at it 3"
+event "human life is not long enough to be spent on mastering a skill"
+event "even if i become the best radiologist , how can i stay there for long , eventually my human body will grow weak and die"
+event "now i started asking the right question"
+--------------
+HABIT 6
+event "friends and family are very good assets but the way to invest in them is not via money , but via respect , sarcasm etc ."
+event "invest in assets that increase over time not decrease , your health is necessary asset and is always among the best investments"
+--------------
+HABIT 7
+--------------
+HABIT 8
+event "found out about control tab in brave"
+--------------
+HABIT 9
+--------------
+HABIT 10

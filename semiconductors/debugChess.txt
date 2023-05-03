@@ -1,62 +1,23 @@
-Material balance
-King safety
-Pawn structure
-Piece activity
-Center control
-Space advantage
-Open files
-undefended pieces 
-weak pawns 
-Weak squares
-Coordination
-Initiative
-Tactical threats
-Passed pawns
-Outposts
-Backward pawns
-Development
-Bishops' diagonals
-Rook placement
-Prophylaxis
-Opponent's intentions
-Plan and strategy
-Exchange opportunities
-Rook lifts
-King's activity
-Pawn chains
-Knight maneuvers
-Pawn breaks
-Forcing moves
-Zwischenzugs
-Pawn islands
-File control
-Color complex control
-Minority attack
-Piece coordination
-Rook endgames
-Opposite-colored bishops
-Bishop vs. knight
-Tempo and time management
-Sacrifice potential
-Piece harmony
-Queen maneuvers
-Connected pawns
-Double pawns
-Isolated pawns
-Fianchettoed bishops
-Semi-open files
-X-ray attacks
+threat 
+piece quality 
+space 
+pawn structure
+king safety
+mobility
+material
+control of the center
+development
+better endgame prospects
+initiative
+attack
+weaknesses
+time for Prophylaxis
+Deflection
 Overloading
 Interference
-Pin and skewer
-Forks and double attacks
-Deflection
-Discovered attacks
-Trapped pieces
-King's opposition
-Breakthroughs
-Counterplay
-Mobility and flexibility
-Pawn majorities
-Undermining
-Piece repositioning
+X-Ray
+Zugzwang
+Trapped Piece
+Trapped King
+double attack
+alphazero type move 
