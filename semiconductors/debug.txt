@@ -10,3 +10,6 @@ Mistakes not to make in programming:
 8. Afraid of documentation and revising and revisiting completed courses
 9. Not using pre-made tools and using their own inefficient tools
 10. Not using enough print statements
+----------------------------------------------------
+the above line is very important 
+----------------------------------------------------

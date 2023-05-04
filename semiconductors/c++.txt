@@ -106,3 +106,9 @@ to match both of them you can use m*[.-]m*
 std::make_tuple( param1 , param2 ,....... param ) is and underrated method , also , to get the values from the tuple you can use std::get<index>
 
 -------------------------------------------------
+-------------------------------------------------
+
+a sleek way to read entire line in std::cin command
+std::string line;
+std:: getline( std::cin, line );
+-------------------------------------------------

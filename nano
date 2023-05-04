@@ -1,0 +1,127 @@
+write me a shell script that does the following 
+it takes a text file provided as a variable in the script itself 
+dislays the first  line 
+when user presses enter it displays the next line 
+it does that till the user reaches the end of the file 
+after reaching the end it prompts the user if he wanna go again 
+if the user presses y then it repeats again from the first line  
+otherwise if the user presses any other key the whole process exits 
+and also the output of each line in the terminal should be blue color 
+after the end
+it dispays the time it took to iterate through all the lines combined  in
+this format 
+"you tooke x  minutes || y seconds to read z number of lines "  
+
+the problem with the code you have provided is that 
+it is displaying all the lines at once and 
+there is -e prefix comming infront of eveyline 
+i want each individual line to be displayed after the user presses 
+enter or return key 
+
+
+
+
+you can use a formula like this 
+read someradomvariable 
+echo -e nextline 
+
+----------------------------------------------------------
+
+here are all the skills i possess 
+
+i have passed step 1 exam 
+
+my AIR was 450 , i dont know how to use it in my CV to give myself an 
+advantage 
+
+i studied from maulana azad medical college 
+
+i did my 1 year year of internship in lok nayak hospital and 
+GB pant hospital 
+
+where i learned
+a plethora of surgical , gynaecological , and medical cases due to 
+working in  the place of highest patient load in the country 
+ 
+how to put central lines 
+**patient dealing skills
+using response and reaction to my advantage 
+persistence 
+constant reading and interpretition of patient vitals 
+a plethora of radiological presentations in my radiology posting 
+among the best colleges i picked up the best habits from my elite peers
+deal with long and strenous working hours
+reading blood reports 
+**taking detailed patient history**  
+taking detailed  psychiatric history 
+differential diagnosis
+Clinical assessment
+Emergency medicine
+Interdisciplinary collaboration
+Time management
+Surgical assistance
+Basic life support (BLS)
+Immunization administration
+Pre- and post-operative care
+Public health awareness 
+Palliative care
+Trauma management
+Physical examination techniques
+...........any other skills taught in MBBS 
+--------------------------------------
+
+these are the courses i have completed  on udemy and i want to make them 
+sound usefull for the reader as i want to apply in any research related 
+to radiology --> and machine learning and AI is a big part of it  
+
+my optimism to bring machines closer to medicine led me to know 
+about the machines 
+
+Shell Scripting: Discover How to Automate Command Line Tasks
+
+Beginning C++ Programming - From Beginner to Beyond
+
+100 Days of Code: The Complete Python Pro Bootcamp for 2023
+
+--------------------------------------
+
+skills 
+
+i have seen over 1000 radiology cases on radiopedia with an daily average of 
+10 cases per day 
+
+i am fairly good at computing , and analysing numbers given in any research 
+
+i can convert any mathematical tablles used in research in 2d or 3d models
+and perform statistical analysis on them  
+
+i have a github repository among which i have a 3d models repository 
+ and fairly experienced with git 
+
+i am on a personality development programme which i can use in my CV with the 
+permission of my mentor 
+
+i read the physcis behind the mri machine and fairly 
+optimistic at the future of mri , and want to make the technology cheaper and
+faster 
+
+aspirations --> fields i would be interested in doing research in
+althoguh some of them are heavly researched i would still like to 
+pursue them  
+1 . make the machines used in medicine and make them cheaper , with improving
+the speed and the accuracy of the diagnosis most likely MRI machines 
+2 . working on braing machine interface while focusing on incresing 
+the frequency of reading and stroing brain waves 
+3 . using digitalization to increase the inter-medical-personell network 
+to aid the diagnosis via simultaneous inputs of multiple medical personell 
+while decreasing the ease and improving the ease of input reading 
+and rendering output of each medical personell  
+4 . imprving the access to the medical data availaible to any medical -persone
+ll at any point of time and with reducing the time to acess the data to 1/3rd 
+5 . using AI to guide , modify , and improve the process of innovation 
+
+6 .taking a whole another approach to radiological imaging and generating 
+a new value in the radiology community 
+
+ 
+

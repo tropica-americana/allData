@@ -5,6 +5,11 @@ TEMPFILE="/Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/temp.txt"
 ROD="-----------------------------------------------------------------------"
 SMALLROD="--------------"
 TODAYS_DATE=$(date "+%Y-%m-%d")
+TRAINING_PROMPT="i have certain character traits stored in habits that i wanna get better at \n 
+what i want you do , a long scenario which is challenging in nature \n 
+which uses high level of thought , speech and body coordination and self control \n 
+the scenario should be desribed in detail \n
+and then you should judge my answer "
 
 # check whether the $1 is open 
 if [ "$1" == "open" ]; then
@@ -17,6 +22,10 @@ if [ "$1" == "code" ]; then
 fi
 if [ "$1" == "cat" ]; then
     /Users/sachinjain/Desktop/AllData/semiconductors/bionify.sh $HABITTEXTFILE
+    exit 0
+fi
+if [ "$1" == "train" ] ; then 
+    
     exit 0
 fi
 # Function to create the template

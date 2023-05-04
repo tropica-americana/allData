@@ -21,3 +21,6 @@ Trapped Piece
 Trapped King
 double attack
 alphazero type move 
+----------------------------------------------------
+
+

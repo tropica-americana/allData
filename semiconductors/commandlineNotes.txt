@@ -588,3 +588,11 @@ where $HABITTEXTFILE is the file name
 
 exit status of the above command can be used later in the script 
 -------------------------------------------------
+
+a sleek code for iterating through each line in a text file 
+for line in $(cat /Users/sachinjain/Desktop/AllData/semiconductors/debug.txt)
+do 
+	$BIONIFY $line
+done
+
+-------------------------------------------------
