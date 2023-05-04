@@ -25,10 +25,11 @@ if [ "$1" == "cat" ]; then
     exit 0
 fi
 if [ "$1" == "train" ] ; then 
-    
+    echo -e $TRAINING_PROMPT | pbcopy
     exit 0
 fi
 # Function to create the template
+
 create_template() {
     echo $ROD >> $HABITTEXTFILE
     echo $TODAYS_DATE >> $HABITTEXTFILE
