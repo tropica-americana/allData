@@ -16,4 +16,4 @@ disease in accurate or approxiamte terms in one in one lack people "
 
 final_string=" $input $prompt \n $diseaseSymptoms \n $diseaseDifferentiatingRadiologicalFeature \n $diseaseMostCommonAnatomicalLocations \n $diseasePrevalenceAndIncidence"
 
-echo -e  $final_string | pbcopy
+echo -e  $final_string | xclip -selection clipboard

@@ -3,9 +3,9 @@
 void debugChess () ;
 void debugCode () ; 
 void debugHabits () ; 
-std::string debugchess {"/Users/sachinjain/Desktop/AllData/semiconductors/debugChess.txt"} ; 
-std::string debugcode {"/Users/sachinjain/Desktop/AllData/semiconductors/debug.txt"} ;
-std::string debugHabitsTextFile ("/Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/debughabits.txt") ; 
+std::string debugchess {"/home/sachin/Desktop/AllData/semiconductors/debugChess.txt"} ; 
+std::string debugcode {"/home/sachin/Desktop/AllData/semiconductors/debug.txt"} ;
+std::string debugHabitsTextFile ("/home/sachin/Desktop/AllData/dailyEventsAndQuotations/debughabits.txt") ; 
 bool pressedQ = false ;
 bool isRunning = true ;
 int main () {

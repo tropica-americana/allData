@@ -4,4 +4,4 @@ PROMPT="give me a emoji combination like this ->  😂😂😂😂😂  , i am u
 , also in the code box  i dont want any text or special characters , or numbers , i just want the emojis ,  the story of the emojis is "
 
 STORY="$@"
-echo -e  "$PROMPT \n $STORY" | pbcopy
+echo -e  "$PROMPT \n $STORY" | xclip -selection clipboard

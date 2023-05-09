@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HABITTEXTFILE="/Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/habitsData.txt"
-TEMPFILE="/Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/temp.txt"
+HABITTEXTFILE="/home/sachin/Desktop/AllData/dailyEventsAndQuotations/habitsData.txt"
+TEMPFILE="/home/sachin/Desktop/AllData/dailyEventsAndQuotations/temp.txt"
 ROD="-----------------------------------------------------------------------"
 SMALLROD="--------------"
 TODAYS_DATE=$(date "+%Y-%m-%d")
@@ -17,11 +17,11 @@ if [ "$1" == "open" ]; then
     exit 0
 fi
 if [ "$1" == "code" ]; then
-    code /Users/sachinjain/Desktop/AllData/semiconductors/habitsDataHandler.sh
+    code /home/sachin/Desktop/AllData/semiconductors/habitsDataHandler.sh
     exit 0
 fi
 if [ "$1" == "cat" ]; then
-    /Users/sachinjain/Desktop/AllData/semiconductors/bionify.sh $HABITTEXTFILE
+    /home/sachin/Desktop/AllData/semiconductors/bionify.sh $HABITTEXTFILE
     exit 0
 fi
 if [ "$1" == "train" ] ; then 

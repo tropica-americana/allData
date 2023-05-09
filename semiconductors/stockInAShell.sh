@@ -27,6 +27,6 @@ then
                 print $1
             }
         }
-    }' /Users/sachinjain/Desktop/AllData/stocks/occidental.txt
+    }' /home/sachin/Desktop/AllData/stocks/occidental.txt
 fi
 

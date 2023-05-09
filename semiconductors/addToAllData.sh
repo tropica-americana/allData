@@ -1,4 +1,7 @@
 #!/bin/bash
+
+cd Desktop/AllData
+
 INPUT=$1
 SECONDINPUT=$2
 shift
@@ -14,144 +17,144 @@ STORY="stry"
 PROMPT="prompt"
 COMMANDLINE="cmd"
 BUG="bug"
-BIONIFY="/Users/sachinjain/Desktop/AllData/semiconductors/bionify.sh" # cat command on steroids
+BIONIFY="/home/sachin/Desktop/AllData/semiconductors/bionify.sh" # cat command on steroids
 VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE $PROMPT)
 USER_INPUT="-------------------------------------------------\n\n$@\n\n-------------------------------------------------"
 
 if [[ $INPUT == $OPEN ]]; then
-    open /Users/sachinjain/Desktop/AllData/semiconductors/addToAllData.sh
+    open /home/sachin/Desktop/AllData/semiconductors/addToAllData.sh
     exit 0
 fi
 
 if [[ $INPUT == $ASSOCIATE ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/associations.txt
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/associations.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/associations.txt
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/associations.txt
         exit 0
     fi
     
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/associations.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/associations.txt
 
 elif [[ $INPUT == $C_PLUS_PLUS ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/semiconductors/c++.txt
+        open /home/sachin/Desktop/AllData/semiconductors/c++.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/semiconductors/c++.txt
+        $BIONIFY /home/sachin/Desktop/AllData/semiconductors/c++.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/semiconductors/c++.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/semiconductors/c++.txt
 
 elif [[ $INPUT == $PROMPT ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
     
 elif [[ $INPUT == $CVS ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/medicine/uworld/CVS/CVS.txt
+        open /home/sachin/Desktop/AllData/medicine/uworld/CVS/CVS.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/medicine/uworld/CVS/CVS.txt
+        $BIONIFY /home/sachin/Desktop/AllData/medicine/uworld/CVS/CVS.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/medicine/uworld/CVS/CVS.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/medicine/uworld/CVS/CVS.txt
 
 elif [[ $INPUT == $WORD ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/words.txt
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/words.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/words.txt
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/words.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/words.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/words.txt
 elif [[ $INPUT == $RADO ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+        open /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
         exit 0
     elif [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+        $BIONIFY /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
         exit 0
     # checking if $2 is empty 
     elif [[ -z $SECONDINPUT ]]; then
         ROD="---------------------------"
         PASTEDDATA=$(pbpaste)
-        echo -e $ROD >> /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
-        printf "%s\n" "$PASTEDDATA" >>/Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
-        echo -e $ROD >> /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+        echo -e $ROD >> /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
+        printf "%s\n" "$PASTEDDATA" >>/home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
+        echo -e $ROD >> /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
         # displaying the contents anyway 
-        $BIONIFY /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+        $BIONIFY /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
         exit 0
     # if second input is not empty and not any of the above then it is a command
     else
-        echo -e $USER_INPUT >> /Users/sachinjain/Desktop/alldata/medicine/radiology/radiology.txt
+        echo -e $USER_INPUT >> /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
         exit 0
     fi
 
 elif [[ $INPUT == $IDEA ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
 elif [[ $INPUT == $BUG ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/bugs.txt
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/bugs.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/bugs.txt
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/bugs.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/bugs.txt  
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/bugs.txt  
 elif [[ $INPUT == $EVENT ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/events.txt
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/events.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/events.txt
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/events.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/events.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/events.txt
 elif [[ $INPUT == $STORY ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/stories.txt
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/stories.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/stories.txt
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/stories.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/dailyEventsAndQuotations/stories.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/stories.txt
 
 elif [[ $INPUT == $COMMANDLINE ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /Users/sachinjain/Desktop/AllData/semiconductors/commandlineNotes.txt
+        open /home/sachin/Desktop/AllData/semiconductors/commandlineNotes.txt
         exit 0
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /Users/sachinjain/Desktop/AllData/semiconductors/commandlineNotes.txt
+        $BIONIFY /home/sachin/Desktop/AllData/semiconductors/commandlineNotes.txt
         exit 0
     fi
-    echo -e $USER_INPUT >> /Users/sachinjain/Desktop/AllData/semiconductors/commandlineNotes.txt
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/semiconductors/commandlineNotes.txt
 else
     echo "invalid input"
     echo "valid inputs are --> ${VALID_INPUTS[@]}"
