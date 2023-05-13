@@ -3,9 +3,11 @@
 void debugChess () ;
 void debugCode () ; 
 void debugHabits () ; 
+void debugMRISequences () ; 
 std::string debugchess {"/home/sachin/Desktop/AllData/semiconductors/debugChess.txt"} ; 
 std::string debugcode {"/home/sachin/Desktop/AllData/semiconductors/debug.txt"} ;
 std::string debugHabitsTextFile ("/home/sachin/Desktop/AllData/dailyEventsAndQuotations/debughabits.txt") ; 
+std::string debugMRISequencesTextFile ("/home/sachin/Desktop/AllData/medicine/radiology/mriSequences.txt") ; 
 bool pressedQ = false ;
 bool isRunning = true ;
 int main () {
@@ -14,7 +16,8 @@ int main () {
 	// enter chess or 'c' for chess 
 	std::cout << "enter chess or 'ch' for chess" << std::endl;
 	std::cout << "enter code or 'co' for code" << std::endl;
-	std::cout << " enter habits or 'h' for habits" << std::endl;
+	std::cout << "enter habits or 'h' for habits" << std::endl;
+	std::cout << "enter 'seq' for MRI sequences" << std::endl;
 	std::cout << "enter q to quit" << std::endl;
 	std::string input ;
 	std::cin >> input ;
@@ -67,6 +70,9 @@ int main () {
 				std::cout << "repeating the process " << std::endl;
 			}
 		}
+	}
+	else if (input == "seq" || input == " seq") {
+		debugMRISequences() ; 
 	}
 
 	else if (input == "q") {
@@ -227,4 +233,13 @@ void debugHabits () {
 	file2.close();
 
 	return ;
+}
+
+void debugMRISequences () {
+	std::string currentLine ; 
+	std::ifstream file(debugMRISequencesTextFile);
+	while ( !file.eof() ){
+		std::getline (file , currentLine ) ;
+		std::cout << currentLine << std::endl ; 
+	}
 }

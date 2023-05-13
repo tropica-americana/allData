@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-TEXT_FILE="/home/sachin/Desktop/alldata/dailyEventsAndQuotations/task.txt"
+TEXT_FILE="/home/sachin/Desktop/AllData/dailyEventsAndQuotations/task.txt"
 if [ $# -eq 0 ]
 then
     echo "current task is "
@@ -17,10 +17,10 @@ fi
 if [ $1 = "add" ]
 then
     shift 
-    echo $@ > /home/sachin/Desktop/alldata/dailyEventsAndQuotations/task.txt
+    echo $@ > /home/sachin/Desktop/AllData/dailyEventsAndQuotations/task.txt
     exit 1 
 fi
-echo $@ > /home/sachin/Desktop/alldata/dailyEventsAndQuotations/task.txt
+echo $@ > /home/sachin/Desktop/AllData/dailyEventsAndQuotations/task.txt
 exit 1 
 #  if there is no passed parameters then it will show the contents of the file
 # where $# means the number of parameters passed

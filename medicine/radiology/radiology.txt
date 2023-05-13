@@ -517,3 +517,127 @@ the frequency at which the protons precess at is called larmor frquency
 ---------------------------
 https://www.youtube.com/watch?v=Ok9ILIYzmaY
 ---------------------------
+---------------------------
+Sure, I will provide the information based on "Lückenschädel" or "lacunar skull".
+
+**1. Three Most Common Symptoms**
+
+- **Cranial deformity:** This could be a noticeable abnormal shape or structure of the skull, often seen in craniosynostosis syndromes.
+
+- **Neurological symptoms:** These may include developmental delays, seizures, or intellectual disability, mainly due to the associated conditions like spina bifida or craniosynostosis syndromes.
+
+- **Physical abnormalities:** Depending on the associated syndrome, there may be abnormalities in other parts of the body. For example, in Apert syndrome, there can be fused fingers or toes (syndactyly).
+
+**2. Differentiating Radiological Feature**
+
+- **Lacunar skull appearance:** On radiographs, the skull displays multiple small, circular defects primarily affecting the parietal bones and occipital bones, which appear like 'lacunae' or holes. The overall skull is often described as having a 'moth-eaten' appearance. This is a characteristic feature differentiating it from other conditions.
+
+**3. Detailed Anatomical and Radiological Description of the Disease**
+
+- The lacunar skull or Lückenschädel is an imaging finding seen in infants. It is characterized by multiple lucent areas in the skull, mainly affecting the parietal and occipital bones. The lucencies are due to thinning of the bone and are filled with cerebrospinal fluid (CSF). This thinning is secondary to increased pressure from the underlying enlarged brain.
+
+- Radiographically, the skull appears to have multiple small, round radiolucencies that give a 'moth-eaten' appearance. On CT scan, these areas are non-sclerotic and show absence of normal trabecular bone pattern.
+
+- This anomaly is most often associated with conditions like craniosynostosis syndromes and neural tube defects. However, the lacunar skull pattern typically resolves by the age of 2 years, irrespective of the underlying condition.
+
+**4. Prevalence and Incidence of the Disease**
+
+- The exact prevalence of Lückenschädel or lacunar skull is hard to determine as it is an imaging finding associated with other conditions rather than a standalone disease. The prevalence would therefore be closely tied to the prevalence of the associated conditions.
+
+- For example, Apert syndrome occurs in about 1 in 65,000 to 1 in 88,000 people, and Crouzon syndrome occurs in about 1 in 60,000 people. Neural tube defects have a global prevalence of about 1 in 1,000 births.
+
+- However, it's worth noting that not all individuals with these conditions will present with a lacunar skull, and the prevalence might therefore be lower.
+---------------------------
+---------------------------
+**Craniosynostosis**
+
+**1. Three Most Common Symptoms**
+
+- **Abnormal head shape:** This is the most common and often the first noticeable sign of craniosynostosis. The specific shape can vary depending on which suture(s) are affected.
+
+- **Developmental delay:** While not all children with craniosynostosis experience developmental delays, it can occur, especially if the condition is severe or left untreated.
+
+- **Increased intracranial pressure:** This can lead to symptoms such as irritability, sleep disturbances, vomiting, bulging or tense fontanel (soft spot), or increased head circumference.
+
+**2. Differentiating Radiological Feature**
+
+- **Premature fusion of skull sutures:** On radiographs or CT scans, craniosynostosis is characterized by early closure of one or more of the sutures that normally remain open to allow the brain to grow. The specific suture that is closed can often help differentiate between different forms of the condition.
+
+**3. Detailed Anatomical and Radiological Description of the Disease**
+
+- Craniosynostosis is a birth defect in which one or more of the fibrous joints between the bones of a baby's skull (cranial sutures) close prematurely, before the brain is fully formed. As a result, the brain growth continues, but it may be forced into unusual shapes or directions.
+
+- Radiologically, craniosynostosis can be identified by the absence of the normal suture line or by the presence of bony ridges at the suture sites on skull X-rays or CT scans. The specific pattern of suture fusion can give the skull a predictable abnormal shape, which can often suggest the diagnosis.
+
+**4. Prevalence and Incidence of the Disease**
+
+- The prevalence of craniosynostosis varies with different sources, but it is generally believed to occur in about 1 in 2000 to 1 in 2500 live births. This would equate to a prevalence of about 40 to 50 cases per 100,000 people. 
+
+- As for the incidence, because craniosynostosis is usually present at birth, the incidence is roughly the same as the prevalence. However, it's worth noting that this is an estimate and the actual numbers can vary based on factors like genetics, environmental factors, and the accuracy of diagnosis.
+---------------------------
+---------------------------
+**Quadrigeminal Cistern Lipoma**
+
+**Param 1: Three Most Common Symptoms**
+
+1. Headaches: These can occur due to the pressure exerted by the lipoma on adjacent brain structures.
+2. Seizures: Intracranial lipomas can sometimes irritate the surrounding brain tissue, leading to seizures.
+3. Neurological deficits: Depending on the size and location of the lipoma, symptoms can vary and may include issues with balance, coordination, or vision.
+
+Please note that these symptoms can vary widely and many intracranial lipomas are asymptomatic and discovered incidentally.
+
+**Param 2: Differentiating Radiological Feature**
+
+Intracranial lipomas, including those in the quadrigeminal cistern, have a distinctive appearance on MRI:
+
+- They are hyperintense on T1-weighted images and also hyperintense on T2-weighted images, similar to subcutaneous fat.
+- They do not enhance with contrast, differentiating them from many other types of intracranial lesions.
+- They do not restrict diffusion, aligning with the lesion being dark on Diffusion-Weighted Imaging (DWI) and not as dark on the Apparent Diffusion Coefficient (ADC) map. 
+- Hypointensity on gradient echo (GRE) sequences could be due to chemical shift artifact.
+
+**Param 3: Detailed Anatomical and Radiological Description of the Disease**
+
+Quadrigeminal cistern lipomas are benign, slow-growing tumors made up of mature adipose (fat) cells, located in the quadrigeminal cistern of the brain. This cistern is a CSF-filled space located posteriorly and superiorly to the midbrain, overlying the quadrigeminal plate.
+
+On MRI, these lipomas show signal characteristics identical to fat. They are bright (hyperintense) on both T1- and T2-weighted images. On DWI, they are not typically bright, and on ADC, they show facilitated diffusion. They do not show enhancement post contrast administration. The chemical shift artifact on gradient echo sequences further confirms the fatty nature of the lesion. 
+
+**Param 4: Prevalence and Incidence**
+
+Intracranial lipomas are rare, accounting for less than 0.1% of all intracranial tumors. As such, the prevalence would be less than 1 in 100,000 people. The incidence is not well-defined due to the rarity of these lesions. Many are likely undetected because they often do not cause symptoms. The prevalence and incidence might be slightly higher with more routine use of neuroimaging for various indications.
+---------------------------
+-------------------------------------------------
+
+between the orbits are ethmoidcal air sinus
+
+-------------------------------------------------
+---------------------------
+**Disc Extrusion - A Comprehensive Overview**
+
+**1. Three Most Common Symptoms:**
+Disc extrusion symptoms can vary depending on the location of the extrusion and the degree to which it's compressing nearby structures. However, the three most commonly reported symptoms include:
+
+   - **Pain:** The area around the affected disc may be sore or tender, and the pain can radiate along the path of the nerve being compressed. For instance, if the extrusion is in the lumbar region, it may cause sciatica, a sharp or burning pain that radiates down the back of the leg.
+  
+   - **Numbness or Tingling:** These symptoms occur in the area of the body served by the affected nerves. For a cervical disc extrusion, this might be the arms or hands, while for a lumbar disc extrusion, it might be the legs or feet.
+   
+   - **Weakness:** The muscles served by the affected nerves may become weak, leading to difficulty in movement or coordination.
+
+**2. Differentiating Radiological Features:**
+Disc extrusion is typically identified using Magnetic Resonance Imaging (MRI). The differentiating features include:
+
+  - The disc material extends beyond the normal perimeter of the intervertebral disc space.
+  - The base of the extruded disc material (where it connects to the disc of origin) is narrower than the dome or the apical part. This gives it a distinct appearance often described as "mushroom-like" or "umbrella-like."
+  - Unlike a disc bulge, the disc extrusion typically affects a smaller portion of the disc's circumference.
+
+**3. Detailed Anatomical and Radiological Description:**
+In disc extrusion, the outer layer of an intervertebral disc, the annulus fibrosus, ruptures, allowing the soft, gel-like inner layer, the nucleus pulposus, to protrude out. This protrusion is what's known as the "extrusion."
+
+Radiologically, on a T2-weighted MRI, a disc extrusion will appear as a high-intensity signal, representing the water content in the protruding nucleus pulposus. The extruded disc material may also appear as a low-intensity signal on T1-weighted MRI images. In some cases, a computed tomography (CT) scan may also be used to provide further detail on bone structures surrounding the extruded disc.
+
+**4. Prevalence and Incidence:**
+The prevalence and incidence of disc extrusion can vary based on a multitude of factors such as age, occupation, lifestyle, and genetics. It is most common in individuals between the ages of 30 and 50. 
+
+Based on various epidemiological studies, it is estimated that symptomatic disc extrusion may occur in approximately 1 to 5 out of every 1000 individuals per year. This equates to a prevalence of 100 to 500 per 100,000 individuals. However, this is a rough estimate as many cases are asymptomatic and may go unreported. It's also important to note that the presence of a disc extrusion on an MRI does not necessarily mean it's the cause of a person's symptoms. 
+
+A more precise prevalence or incidence rate would require a detailed population-based study focusing specifically on disc extrusion.
+---------------------------

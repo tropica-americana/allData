@@ -1,0 +1,58 @@
+
+1. T1-weighted:
+   - Description: Produces high signal from fat and low signal from water.
+   - Use: Used for anatomical detail and identifying pathology such as tumors, inflammation, or bleeding.
+   - Prominent Structures: Fat, muscle, grey matter, white matter.
+   - Connection with other Sequences: Contrast is opposite to T2: fluid appears dark, fat appears bright.
+
+2. T2-weighted:
+   - Description: Produces high signal from water and low signal from fat.
+   - Use: Used to detect edema and inflammation, and to visualize fluid-filled structures.
+   - Prominent Structures: Cerebrospinal fluid (CSF), edema, inflammation.
+   - Connection with other Sequences: Fluid is bright, fat is relatively dark.
+
+3. FLAIR (Fluid Attenuated Inversion Recovery):
+   - Description: Similar to T2-weighted, but CSF signal is suppressed.
+   - Use: Used to detect lesions near ventricles or in sulci where CSF signal may obscure them.
+   - Prominent Structures: Lesions near ventricles or sulci.
+   - Connection with other Sequences: Essentially T2 with CSF appearing dark (like in T1).
+
+4. DWI (Diffusion Weighted Imaging):
+   - Description: Measures the diffusion of water molecules.
+   - Use: Useful in acute stroke imaging, abscesses, and differentiation of epidermoid cysts from arachnoid cysts.
+   - Prominent Structures: Acute ischemic stroke, abscesses, cysts.
+   - Connection with other Sequences: Unique sequence, not directly comparable to T1 or T2.
+
+5. T1 with Gadolinium (contrast):
+   - Description: Gadolinium enhances areas with a disrupted blood-brain barrier.
+   - Use: Used for tumor imaging, inflammation, infection, and vascular studies.
+   - Prominent Structures: Tumors, inflammation, infection.
+   - Connection with other Sequences: T1-weighted, but contrast-enhanced.
+
+6. T2* (T2 Star) Gradient Echo:
+   - Description: Sensitive to magnetic susceptibility differences within tissue.
+   - Use: Used to detect hemorrhage and calcifications.
+   - Prominent Structures: Hemorrhage, calcifications.
+   - Connection with other Sequences: Unique sequence, not directly comparable to T1 or T2.
+
+7. SWI (Susceptibility Weighted Imaging):
+   - Description: Very sensitive to differences in magnetic susceptibility.
+   - Use: Used to detect small amounts of blood, iron, and calcium.
+   - Prominent Structures: Microhemorrhages, venous structures, iron deposition.
+   - Connection with other Sequences: More sensitive to blood and iron than T2* gradient echo.
+
+8. MRA (Magnetic Resonance Angiography):
+   - Description: Used to image arteries and veins.
+   - Use: Used to detect vascular abnormalities like aneurysms and dissections.
+   - Prominent Structures: Arteries, veins.
+   - Connection with other Sequences: Often used with gadolinium to enhance blood vessels.
+
+9. MRV (Magnetic Resonance Venography):
+   - Description: Specialized for imaging veins.
+   - Use: Used to detect venous thrombosis and other venous problems.
+   - Prominent Structures: Veins, particularly dural sinuses.
+   - Connection with other Sequences: Complementary to MRA but focused on veins.
+
+10. DWI-ADC (Apparent Diffusion Coefficient):
+    - Description: A calculated image based on DWI that quantifies diffusion.
+    - Use: Used to differentiate

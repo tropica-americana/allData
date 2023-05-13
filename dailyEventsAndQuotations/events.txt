@@ -154,3 +154,8 @@ significant change is environment was associated with regression to old behavior
 apparently it is harder to differentiate structures on mri also
 
 -------------------------------------------------
+-------------------------------------------------
+
+i deleted zerodha app from my phone thereby creating the environment of an investor and started feeling like a investor too
+
+-------------------------------------------------

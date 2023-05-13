@@ -83,24 +83,24 @@ elif [[ $INPUT == $WORD ]]; then
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/words.txt
 elif [[ $INPUT == $RADO ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
+        open /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
         exit 0
     elif [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
+        $BIONIFY /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
         exit 0
     # checking if $2 is empty 
     elif [[ -z $SECONDINPUT ]]; then
         ROD="---------------------------"
-        PASTEDDATA=$(pbpaste)
-        echo -e $ROD >> /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
-        printf "%s\n" "$PASTEDDATA" >>/home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
-        echo -e $ROD >> /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
+        PASTEDDATA=$(xclip -selection clipboard -o) # this was for mac -> $(pbpaste)
+        echo -e $ROD >> /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
+        printf "%s\n" "$PASTEDDATA" >>/home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
+        echo -e $ROD >> /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
         # displaying the contents anyway 
-        $BIONIFY /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
+        $BIONIFY /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
         exit 0
     # if second input is not empty and not any of the above then it is a command
     else
-        echo -e $USER_INPUT >> /home/sachin/Desktop/alldata/medicine/radiology/radiology.txt
+        echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
         exit 0
     fi
 
