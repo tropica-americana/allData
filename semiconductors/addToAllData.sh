@@ -17,8 +17,9 @@ STORY="stry"
 PROMPT="prompt"
 COMMANDLINE="cmd"
 BUG="bug"
+PIYUSHCHANDRA="pc"
 BIONIFY="/home/sachin/Desktop/AllData/semiconductors/bionify.sh" # cat command on steroids
-VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE $PROMPT)
+VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE $PROMPT $PIYUSHCHANDRA)
 USER_INPUT="-------------------------------------------------\n\n$@\n\n-------------------------------------------------"
 
 if [[ $INPUT == $OPEN ]]; then
@@ -100,7 +101,7 @@ elif [[ $INPUT == $RADO ]]; then
         exit 0
     # if second input is not empty and not any of the above then it is a command
     else
-        echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
+        echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/medicine/radiology/radiologyNotes.txt
         exit 0
     fi
 
@@ -155,6 +156,16 @@ elif [[ $INPUT == $COMMANDLINE ]]; then
         exit 0
     fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/semiconductors/commandlineNotes.txt
+elif [[ $INPUT == $PIYUSHCHANDRA ]];then 
+     if [[ $SECONDINPUT == $OPEN ]]; then
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/piyush.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "cat" ]]; then 
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/piyush.txt
+        exit 0
+    fi
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/piyush.txt
 else
     echo "invalid input"
     echo "valid inputs are --> ${VALID_INPUTS[@]}"

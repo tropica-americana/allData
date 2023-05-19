@@ -14,6 +14,7 @@ int main () {
 	
 	std::cout << "what do you wanna debug" << std::endl; 
 	// enter chess or 'c' for chess 
+	std::cout << " enter show after enterting deb to show the names of the text files  " << std::endl;
 	std::cout << "enter chess or 'ch' for chess" << std::endl;
 	std::cout << "enter code or 'co' for code" << std::endl;
 	std::cout << "enter habits or 'h' for habits" << std::endl;

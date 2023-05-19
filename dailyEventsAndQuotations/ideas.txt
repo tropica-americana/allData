@@ -148,3 +148,23 @@ add icloud to your linux
 make the all in one cpp programme that gives acces to all the different kinds of the cpp files and runs them making compiling and runninng cpp files so much easier
 
 -------------------------------------------------
+-------------------------------------------------
+
+instant access to vertebral levels and the structures associated with that level
+
+-------------------------------------------------
+-------------------------------------------------
+
+control mouse pointer with the number keys on the right side of keyboard
+
+-------------------------------------------------
+-------------------------------------------------
+
+make your gamemachine time safe
+
+-------------------------------------------------
+-------------------------------------------------
+
+change the location to college to andra pradesh
+
+-------------------------------------------------
