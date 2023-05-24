@@ -373,3 +373,60 @@ HABIT 8
 HABIT 9
 --------------
 HABIT 10
+-----------------------------------------------------------------------
+2023-05-23
+--------------
+HABIT 1
+event "specialized in apadting and imrpoving from mistakes and not repeating them agian"
+--------------
+HABIT 2
+event "speacialises in removing any moral obligation , any regilious obligations, obligations to be honest , to do everything for family etc .."
+event "cue some one asks a question -- routine under habit number 2 -- try to not tell the truth"
+event "cue -- some one asks a question routine : under habit 2 -- lie"
+event "cue -- one asks a question routine : under habit 2 --"
+--------------
+HABIT 3
+event "specialised in talking like honey , finding flaws in no one , so that people turn towards you not against you"
+--------------
+HABIT 4
+event "speacializes in balancinnng the thought process towards things under my direct control and not under my direct control ."
+--------------
+HABIT 5
+event "specializes in creating the right questions for the current situations and solve forr them accordingly ."
+--------------
+HABIT 6
+event "specializes in allowing the person to wait as much as the fruit ripens to the appropiate levels ."
+--------------
+HABIT 7
+event "creating a barrier for the external and internal environment"
+--------------
+HABIT 8
+event "build endurance and wealth ."
+--------------
+HABIT 9
+event "specializes in allows me to get calm , and respond"
+--------------
+HABIT 10
+event "change the focus too most important tasks and variables to get things done ."
+-----------------------------------------------------------------------
+2023-05-24
+--------------
+HABIT 1
+--------------
+HABIT 2
+--------------
+HABIT 3
+--------------
+HABIT 4
+--------------
+HABIT 5
+--------------
+HABIT 6
+--------------
+HABIT 7
+--------------
+HABIT 8
+--------------
+HABIT 9
+--------------
+HABIT 10
