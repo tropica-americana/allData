@@ -188,3 +188,13 @@ before trying to speak pleasently about another person , why not speak the honey
 learning anatomy from the video first and also increase the time allocation towards learning anatomy and also downloading the anatomy videos
 
 -------------------------------------------------
+-------------------------------------------------
+
+apply conservation of angular momentum to the gmae machine .
+
+-------------------------------------------------
+-------------------------------------------------
+
+make the terminal iterator using c++
+
+-------------------------------------------------

@@ -4,24 +4,43 @@ void debugChess () ;
 void debugCode () ; 
 void debugHabits () ; 
 void debugMRISequences () ; 
+void debugTools () ; 
 std::string debugchess {"/home/sachin/Desktop/AllData/semiconductors/debugChess.txt"} ; 
 std::string debugcode {"/home/sachin/Desktop/AllData/semiconductors/debug.txt"} ;
 std::string debugHabitsTextFile ("/home/sachin/Desktop/AllData/dailyEventsAndQuotations/debughabits.txt") ; 
 std::string debugMRISequencesTextFile ("/home/sachin/Desktop/AllData/medicine/radiology/mriSequences.txt") ; 
+std::string debugToolsTextFile ("/home/sachin/Desktop/AllData/dailyEventsAndQuotations/debugTools.txt") ;
 bool pressedQ = false ;
 bool isRunning = true ;
 int main () {
 	
 	std::cout << "what do you wanna debug" << std::endl; 
 	// enter chess or 'c' for chess 
-	std::cout << " enter show after enterting deb to show the names of the text files  " << std::endl;
+	std::cout << "enter show after enterting deb to show the names of the text files  " << std::endl;
 	std::cout << "enter chess or 'ch' for chess" << std::endl;
 	std::cout << "enter code or 'co' for code" << std::endl;
 	std::cout << "enter habits or 'h' for habits" << std::endl;
 	std::cout << "enter 'seq' for MRI sequences" << std::endl;
+	std::cout << "enter 'tools' for tools" << std::endl;
 	std::cout << "enter q to quit" << std::endl;
 	std::string input ;
 	std::cin >> input ;
+	if (input == "tools" || input == " tools" ){
+		while (isRunning) {
+			if (pressedQ) {
+				break;
+			}
+			debugTools();
+			std::cout << "please enter q to exit the debug mode" << std::endl;
+			std::getline (std::cin , input  ) ;
+			if (input == "q") {
+				isRunning = false ; 
+			}
+			else {
+				std::cout << "repeating the process " << std::endl;
+			}
+		}
+	} 
 	if (input == "chess" || input == "ch" || input == "ch " || input == "chess " ) {
 		while (isRunning ) {
 			debugChess();
@@ -243,4 +262,54 @@ void debugMRISequences () {
 		std::getline (file , currentLine ) ;
 		std::cout << currentLine << std::endl ; 
 	}
+}
+void debugTools () {
+	// same as debug habits 
+	std::ifstream file(debugToolsTextFile);
+	std::string line;
+	std::string input ;
+	std::string allInputLines ;
+	bool encounteredRod = false;
+	std::string rod="----------------------------------------------------" ;
+	// presenting all the features to the user
+	std::cout << "Welcome to the debug mode of tools " << std::endl;
+	std::cout << "You can use the following commands to debug the game" << std::endl;
+	std::cout << "q: quit the debug mode" << std::endl;
+	std::cout << "----------------------------------------------------" << std::endl;
+	while (!file.eof()  &&  !encounteredRod && !pressedQ )   {
+		std::getline(file, line);
+		//clearing the terminal before displaying the next line
+		system("clear");
+		std::cout << line << std::endl;
+		if (line == rod) {
+			encounteredRod = true;
+			isRunning = false ;
+		}
+		std::getline (std::cin , input  ) ;
+		if (input == "q") {
+			pressedQ = true ;
+
+			break;
+		}
+		// check whether input is empty
+		if (input == "") {
+			continue;
+		}
+		else {
+			allInputLines += rod + "\n";
+			allInputLines += line + ": " + input + "\n";
+
+		}
+
+	}
+	// close the file
+	file.close();
+	// open the file in append mode
+	std::ofstream file2( debugToolsTextFile, std::ofstream::app );
+	// write the input lines at the end of the file
+	if (allInputLines != "") {
+		file2 << allInputLines;
+	}
+	file2.close();
+
 }
