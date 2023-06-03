@@ -59,7 +59,8 @@ anatomicalstructure=" please use the following
 parameters to describe the anatomical struccture 1. level of occurence in the axial plane of ct and mri 
 2. strctures related to the structure in the anterior and posterior locations in the axial plane of ct and mri
 3. characterstic features and appearence on mri and ct 
-4. clinical significance of the structure "
+4. clinical significance of the structure
+5. anatmoical heirarchy , please give this part in great detail and consistency "
 # copy all the above variables in to a single string seperated by \n 
 
 PARAMS="$PROMPT \n $PARAMSOFARTERIES \n $PARAMOFNERVES \n $PARAMOFMUSCLES \n $PARAMOFBONES \n $PARAMOFORGANS \n $PARAMOFANYOTHERSTRUCTURE 

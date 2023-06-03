@@ -198,3 +198,28 @@ apply conservation of angular momentum to the gmae machine .
 make the terminal iterator using c++
 
 -------------------------------------------------
+-------------------------------------------------
+
+make the most beautiful cpp script of flow charts
+
+-------------------------------------------------
+-------------------------------------------------
+
+pushing only the text files in the main branch
+
+-------------------------------------------------
+-------------------------------------------------
+
+make a stack application
+
+-------------------------------------------------
+-------------------------------------------------
+
+why not put the image of the structure in the mri which you are currently studying ANATOMY for .
+
+-------------------------------------------------
+-------------------------------------------------
+
+make a amazing image viewer for viewing and editing radiology images
+
+-------------------------------------------------

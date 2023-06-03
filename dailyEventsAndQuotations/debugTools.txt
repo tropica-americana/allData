@@ -1,26 +1,33 @@
-exploration
-specialisation
-visible list
+
+planning 
+adaptations -daily -slow 
+wait 
 ignore
-listening without processing
+secrets 
+mirroring
+exploration
+devotion
+simplify
+verbify
+experiential learning 
+small steps [ small mila te jao , large banate jao ] 
+----------------------------------------------------
+revision
+putting the right question for the Brain CPU
 timed iteration using c++
+listening without processing
+assume the virtue
+visible list
 task sheet
 lying
 sarcasm
 human help free / paid 
-devotion
-mirroring
-putting the right question for the Brain CPU
 delegate
-assume the virtue
-working around flaws
+specialisation
 images
 OBS screen recording
-revision
-simplify
 mathify
-verbify
-----------------------------------------------------
+-----------------------------------------------------
 breakpoints
 timer
 pharmaceuticals
@@ -29,6 +36,7 @@ timed Coffee
 timed naps
 keyboard Shortcuts
 visual studio code
+working around flaws
 daily tracks
 bionic text
 prompts
@@ -51,3 +59,23 @@ revision: the reason for recent habit failure was not giving enough time to revi
 simplify: an hard problems is a collection of easy ones . 
 ----------------------------------------------------
 mathify: an investors trait . 
+----------------------------------------------------
+adaptations -daily -slow :  
+----------------------------------------------------
+exploration: my weak part of exploration for the right thing in the wrong place , exploration is place dependent and exploration is also skill dependent . 
+----------------------------------------------------
+specialisation: you are sorrounded by a sphere of AI and competetionn and if you wanna cross that sphere than you gotta specialize in very specific sets of things . 
+----------------------------------------------------
+wait : if often says , waiting bears fruit . 
+----------------------------------------------------
+ignore: right questions make this tools so easy to acess 
+----------------------------------------------------
+listening without processing: among the most accepted anti social tool 
+----------------------------------------------------
+timed iteration using c++: literally saved all the habits from drowning . 
+----------------------------------------------------
+lying: in many cases if you dont wanna do something you can just lie . 
+----------------------------------------------------
+sarcasm: often works best when used for positive impact , non - manipulative and refrained from including the words me and i 
+----------------------------------------------------
+human help free / paid : free help might prove to be the most expensive thing in your life . 
