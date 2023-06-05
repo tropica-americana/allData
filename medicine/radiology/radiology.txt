@@ -517,3 +517,33 @@ the frequency at which the protons precess at is called larmor frquency
 ---------------------------
 https://www.youtube.com/watch?v=Ok9ILIYzmaY
 ---------------------------
+-------------------------------------------------
+
+internal carotid artery anurysm may present with subarachnoid bleeds and a focal area of hemorragic tissue
+
+-------------------------------------------------
+---------------------------
+**Baastrup's Disease (Kissing Spine Syndrome)**
+
+**Param 1: Three Most Common Symptoms**
+
+1. **Back Pain**: Chronic midline low back pain is the most common symptom. It's typically worse when standing upright or with spine extension, and tends to improve when lying down.
+   
+2. **Tenderness Over the Spinous Processes**: On physical examination, patients often have tenderness directly over the involved spinous processes.
+
+3. **Radiating Pain**: Some patients may also experience pain radiating down to the lower limbs, mimicking radicular pain syndrome.
+
+**Param 2: Differentiating Radiological Feature**
+
+The hallmark radiological feature is closely approximated or 'kissing' spinous processes, most commonly in the lumbar spine, seen on lateral radiographs. There can also be evidence of interspinous bursitis with fluid collection seen in MRI imaging. The distinguishing feature is the finding of these signs without the presence of any other pathologic change that could explain the patient's pain.
+
+**Param 3: Detailed Anatomical and Radiological Description of the Disease**
+
+Baastrup's disease, also known as Kissing Spine Syndrome, is characterized by enlargement and inflammation of the interspinous bursa due to repetitive contact between adjacent spinous processes (most commonly in the lumbar spine). This repeated contact and subsequent inflammation can lead to sclerosis, hypertrophy of the adjacent spinous processes, and development of a bursa in between. 
+
+On radiography, interspinous bursitis appears as an area of increased radiodensity in the interspinous space, with closely approximated spinous processes. On CT, interspinous bursitis is seen as a well-circumscribed fluid collection in the interspinous space, with or without calcifications. On MRI, it is seen as a fluid-filled interspinous bursa, which can be hyperintense on T2-weighted images and hypointense on T1-weighted images. 
+
+**Param 4: Prevalence and Incidence of the Disease**
+
+Exact prevalence and incidence numbers for Baastrup's disease are not well established due to underdiagnosis, misdiagnosis, and variance in the population studied. However, it has been observed more frequently in elderly patients, particularly those over 60 years old. In these populations, some studies suggest a prevalence of 10% or higher. This would translate to approximately 1,000 cases per 10,000 individuals, though the rate could be higher or lower depending on the population.
+---------------------------
