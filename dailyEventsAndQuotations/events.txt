@@ -274,3 +274,33 @@ addition of time function to things under and not under control .
 i am at a dilemmma whether how should i allocate my time and i am gonna consider the past for predicting the future . i will take slow planned steps towards my start up and work continously towards my goal . and work hard towards it . everyday i will take little steps towards my goal . and then finally i will make the move .
 
 -------------------------------------------------
+-------------------------------------------------
+
+termdown for timer is pretty insane .
+
+-------------------------------------------------
+-------------------------------------------------
+
+control + /home/sachin can open the terminal in vscode
+
+-------------------------------------------------
+-------------------------------------------------
+
+control + alt + left / right can be used for parellel windows
+
+-------------------------------------------------
+-------------------------------------------------
+
+arm rest and a cheap wired mechanical keybaord changed my life
+
+-------------------------------------------------
+-------------------------------------------------
+
+ mayank -> usa gonna collapse ; sachin -> which computer do you use ; mayank -> dell ; sachin -> what is the gdp of india ; m -> 4 trillion ; usa ? ; 28 trillion ; sachin -> what is the product do you use whci h is made in india ; mayank -> grains ; this evet is a good depiction of power of questions . 
+
+-------------------------------------------------
+-------------------------------------------------
+
+among the other data types strings have proven to be the most versatile data storing format that can literally store anthing and from now on string reliance will be increased
+
+-------------------------------------------------
