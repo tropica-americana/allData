@@ -1,4 +1,5 @@
 
+associations [ revision ]
 planning 
 adaptations -daily -slow 
 wait 
@@ -10,7 +11,8 @@ devotion
 simplify
 verbify
 experiential learning 
-small steps [ small mila te jao , large banate jao ] 
+small steps 
+daily agendas 
 ----------------------------------------------------
 revision
 putting the right question for the Brain CPU

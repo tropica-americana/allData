@@ -336,8 +336,7 @@ To explain the concept behind MRI in high detail, let's break it down into its e
 
 6. Spatial Encoding: By applying the gradient magnetic fields in different directions (e.g., x, y, and z), the emitted RF signals can be spatially encoded. Fourier transformation of these spatially encoded signals allows for the reconstruction of images with information about the object's internal structures.
 
-7. Tumor Detection: Raymond Damadian recognized the potential of MRI for detecting tumors, as cancerous tissues often have different water content and relaxation properties compared to healthy tissues. This results in distinct MRI signal characteristics that can be used to identify and distinguish between healthy and cancerous tissues.
-
+w
 In summary, MRI technology is based on the principles of nuclear magnetic resonance and relies on the interaction between protons and magnetic fields. By introducing spatially varying magnetic fields, it is possible to separate frequency components of the emitted RF signals, which can then be used to reconstruct detailed images of the body's internal structures.
 ---------------------------
 ---------------------------
