@@ -144,7 +144,7 @@ void debugCode () {
 	// close the file
 	file.close();
 	// open the file in append mode
-	std::ofstream file2("debug.txt" , std::ofstream::app);
+	std::ofstream file2(debugHabitsTextFile , std::ofstream::app);
 	// write the input lines at the end of the file 
 	if (allInputLines != "") {
 		file2 << allInputLines;
