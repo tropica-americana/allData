@@ -678,3 +678,7 @@ alt + shift + c to close the window in xmonad
 alt shift enter to open the terminal in xmonad
 
 -------------------------------------------------
+
+after i drink monster i will brush my teeth
+
+-------------------------------------------------
