@@ -648,3 +648,33 @@ adaptations deleting spotify made airpods safe to use
 adaptations onedrive for data transfer
 
 -------------------------------------------------
+-------------------------------------------------
+
+adaptations write all the physics functions inn the physics class , and other functions in the other classes but use them in the system.cpp for example solar system uses random fucntions , time functions , physics functions , and also now try to make a input class
+
+-------------------------------------------------
+-------------------------------------------------
+
+adaptations no more giving away lemons
+
+-------------------------------------------------
+-------------------------------------------------
+
+adaptations no more giving away lemons
+
+-------------------------------------------------
+-------------------------------------------------
+
+when the time comes sachin apply for counselling and give it ample time
+
+-------------------------------------------------
+-------------------------------------------------
+
+alt + shift + c to close the window in xmonad
+
+-------------------------------------------------
+-------------------------------------------------
+
+alt shift enter to open the terminal in xmonad
+
+-------------------------------------------------
