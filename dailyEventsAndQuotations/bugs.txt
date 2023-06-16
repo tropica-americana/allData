@@ -99,3 +99,8 @@ static variable
 people cannot differentiate when i am joking and when i am serious
 
 -------------------------------------------------
+-------------------------------------------------
+
+bug of data and information hoarding
+
+-------------------------------------------------
