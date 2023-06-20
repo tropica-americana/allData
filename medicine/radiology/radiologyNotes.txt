@@ -43,3 +43,16 @@ even the ct scann shows the fatty attenuation
 increased fluid in the hepatorenal space can be caused by ascites or blood in the abdomen .
 
 -------------------------------------------------
+
+the place to access the thickness and X and Y location of anything is Axial scan 
+
+------------------------------------------------
+
+the place to analyse the vertical position is coronal scan 
+
+------------------------------------------------
+
+the best place to analyzt the anterior and posterior position is sagittal scan 
+
+------------------------------------------------
+
