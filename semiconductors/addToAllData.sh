@@ -84,10 +84,10 @@ elif [[ $INPUT == $WORD ]]; then
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/words.txt
 elif [[ $INPUT == $RADO ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
-        open /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
+        open /home/sachin/Desktop/AllData/medicine/radiology/radiologyNotes.txt
         exit 0
     elif [[ $SECONDINPUT == "cat" ]]; then 
-        $BIONIFY /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
+        $BIONIFY /home/sachin/Desktop/AllData/medicine/radiology/radiologyNotes.txt
         exit 0
     # checking if $2 is empty 
     elif [[ -z $SECONDINPUT ]]; then
