@@ -335,11 +335,6 @@ tell him that i want more consistency in the delivery of the lectures via google
 -------------------------------------------------
 -------------------------------------------------
 
-elements of voice
-
--------------------------------------------------
--------------------------------------------------
-
 what to expect when asking for help
 
 -------------------------------------------------
@@ -353,6 +348,7 @@ elements of a voice and how to master them
 unrelated advice for dental appointments
 
 -------------------------------------------------
+<<<<<<< HEAD
 -------------------------------------------------
 
 asking for lecture and not video from piyush --> positive outcomes 
@@ -363,3 +359,9 @@ asking for lecture and not video from piyush --> positive outcomes
 he was right about elon musk personality type , which is driver personality type according to chat GPT
 
 -------------------------------------------------
+=======
+
+tell him about the exercise routine 
+
+-------------------------------------------------
+>>>>>>> 524a0d1b88c625542c85386c380035140951eadc
