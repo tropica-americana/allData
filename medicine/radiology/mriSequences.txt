@@ -55,4 +55,36 @@
 
 10. DWI-ADC (Apparent Diffusion Coefficient):
     - Description: A calculated image based on DWI that quantifies diffusion.
-    - Use: Used to differentiate
+    - Use: Used to differentiate between acute, subacute, and chronic stroke, and to distinguish true restriction from T2 shine through effect.
+    - Prominent Structures: Areas of restricted diffusion, such as in acute stroke or abscess.
+    - Connection with other Sequences: Directly related to DWI, provides more quantitative information about water molecule diffusion.
+
+11. STIR (Short Tau Inversion Recovery):
+    - Description: A fat suppression technique where fat signal is turned off.
+    - Use: Used in musculoskeletal imaging and to highlight fluid or edema.
+    - Prominent Structures: Fluid or edema, soft tissue lesions.
+    - Connection with other Sequences: Works like T2-weighted images but with fat signal suppressed, making lesions more conspicuous.
+
+12. TOF (Time of Flight):
+    - Description: A technique for visualizing flowing blood by using the flow as a source of signal.
+    - Use: Often used in angiographic imaging to highlight blood vessels.
+    - Prominent Structures: Arteries, veins.
+    - Connection with other Sequences: Often used in combination with MRA to provide a better contrast between blood vessels and surrounding tissues.
+
+13. DCE (Dynamic Contrast Enhanced):
+    - Description: Repeated acquisition of images after contrast injection to visualize perfusion.
+    - Use: Commonly used for evaluating tumors, where rapid washout of contrast may suggest malignancy.
+    - Prominent Structures: Tumors, vascular structures.
+    - Connection with other Sequences: Based on T1-weighted imaging, but with dynamic contrast enhancement.
+
+14. DSC (Dynamic Susceptibility Contrast):
+    - Description: A method for evaluating perfusion using a bolus of gadolinium-based contrast material.
+    - Use: Often used in stroke to assess tissue at risk, and in tumors to assess angiogenesis.
+    - Prominent Structures: Tissue perfusion, blood vessels.
+    - Connection with other Sequences: Uses T2*-weighted imaging as a basis, but with dynamic contrast enhancement.
+
+15. ASL (Arterial Spin Labeling):
+    - Description: A technique that uses arterial blood water as an endogenous contrast medium for perfusion imaging.
+    - Use: Commonly used to evaluate perfusion deficits in stroke, tumor blood flow, and in research studies.
+    - Prominent Structures: Areas of blood flow/perfusion.
+    - Connection with other Sequences: Unique sequence, not directly comparable to T1 or T2.

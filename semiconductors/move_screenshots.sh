@@ -5,8 +5,8 @@ inotifywait -m ~/Desktop/Screenshots -e create -e moved_to |
 
             mv ~/Desktop/Screenshots/"$file" ~/Desktop ; 
             echo "$file" ; 
-            # cd Desktop
-            # ls * 
-            # gimp $file ; 
+            cd Desktop
+            
+#                gimp "$file" ; 
         fi
     done
