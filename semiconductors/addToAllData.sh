@@ -18,9 +18,10 @@ PROMPT="prompt"
 COMMANDLINE="cmd"
 BUG="bug"
 PIYUSHCHANDRA="pc"
+DATA="$@"
 BIONIFY="/home/sachin/Desktop/AllData/semiconductors/bionify.sh" # cat command on steroids
 VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE $PROMPT $PIYUSHCHANDRA)
-USER_INPUT="-------------------------------------------------\n\n$@\n\n-------------------------------------------------"
+USER_INPUT="-------------------------------------------------\n\n$DATA\n\n-------------------------------------------------"
 
 if [[ $INPUT == $OPEN ]]; then
     open /home/sachin/Desktop/AllData/semiconductors/addToAllData.sh

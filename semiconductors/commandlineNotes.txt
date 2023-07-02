@@ -597,3 +597,11 @@ done
 
 --------------------------------------------------------------------------------------------------
 
+the difference between single and double quotations in the shell scripts is that 
+echo "$x" -> x actual value 
+but 
+echo '$x' -> will output -> $x as it is 
+
+--------------------------------------------------------------------------------------------------
+
+

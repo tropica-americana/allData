@@ -323,3 +323,13 @@ why not buy another thermostat and keep a constat supply of warm water inside it
 why not buy another thermostat and keep a constat supply of warm water inside it , and make habit of boiling and keeping warm water in the morning for the entire day and connect it via bluetooth 
 
 -------------------------------------------------
+-------------------------------------------------
+
+make a cpp make sh file .
+
+-------------------------------------------------
+-------------------------------------------------
+
+make a radio image interpretetion software
+
+-------------------------------------------------
