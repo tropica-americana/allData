@@ -2,6 +2,7 @@
 duration=$1 ; 
 shift
 message=$@
+volume="10%"
 # Ask for the duration of the timer
 # echo "Enter duration of the timer in seconds:"
 # read duration
@@ -9,7 +10,8 @@ message=$@
 # # Ask for the message
 # echo "Enter message to be spoken when timer goes off:"
 # read message
-amixer -q sset Master 90%
+amixer -q sset Master 0%	
+echo "volume is $volume of master volume and that should be considered "
 
 sleep 2 
 # Start the timer

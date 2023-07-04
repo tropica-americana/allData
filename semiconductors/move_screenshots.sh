@@ -7,6 +7,7 @@ inotifywait -m ~/Desktop/Screenshots -e create -e moved_to |
             echo "$file" ; 
             cd Desktop
             
-#                gimp "$file" ; 
+#            gnome-terminal  cd Desktop ; gimp "$file" ; 
+            gimp "$file"  ;  	
         fi
     done

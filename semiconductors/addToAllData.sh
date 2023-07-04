@@ -37,6 +37,10 @@ if [[ $INPUT == $ASSOCIATE ]]; then
         $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/associations.txt
         exit 0
     fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/associations.txt
+        exit 0
+    fi
     
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/associations.txt
 
@@ -47,6 +51,10 @@ elif [[ $INPUT == $C_PLUS_PLUS ]]; then
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
         $BIONIFY /home/sachin/Desktop/AllData/semiconductors/c++.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/semiconductors/c++.txt
         exit 0
     fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/semiconductors/c++.txt
@@ -60,6 +68,10 @@ elif [[ $INPUT == $PROMPT ]]; then
         $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
         exit 0
     fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
+        exit 0
+    fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/prompt.txt
     
 elif [[ $INPUT == $CVS ]]; then
@@ -69,6 +81,10 @@ elif [[ $INPUT == $CVS ]]; then
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
         $BIONIFY /home/sachin/Desktop/AllData/medicine/uworld/CVS/CVS.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/medicine/uworld/CVS/CVS.txt
         exit 0
     fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/medicine/uworld/CVS/CVS.txt
@@ -82,6 +98,11 @@ elif [[ $INPUT == $WORD ]]; then
         $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/words.txt
         exit 0
     fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/words.txt
+        exit 0
+    fi
+
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/words.txt
 elif [[ $INPUT == $RADO ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
@@ -90,6 +111,7 @@ elif [[ $INPUT == $RADO ]]; then
     elif [[ $SECONDINPUT == "cat" ]]; then 
         $BIONIFY /home/sachin/Desktop/AllData/medicine/radiology/radiologyNotes.txt
         exit 0
+    
     # checking if $2 is empty 
     elif [[ -z $SECONDINPUT ]]; then
         ROD="---------------------------"
@@ -115,6 +137,10 @@ elif [[ $INPUT == $IDEA ]]; then
         $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
         exit 0
     fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
+        exit 0
+    fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/ideas.txt
 elif [[ $INPUT == $BUG ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
@@ -123,6 +149,10 @@ elif [[ $INPUT == $BUG ]]; then
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
         $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/bugs.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/bugs.txt
         exit 0
     fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/bugs.txt  
@@ -135,6 +165,10 @@ elif [[ $INPUT == $EVENT ]]; then
         $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/events.txt
         exit 0
     fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/events.txt
+        exit 0
+    fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/events.txt
 elif [[ $INPUT == $STORY ]]; then
     if [[ $SECONDINPUT == $OPEN ]]; then
@@ -143,6 +177,10 @@ elif [[ $INPUT == $STORY ]]; then
     fi
     if [[ $SECONDINPUT == "cat" ]]; then 
         $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/stories.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/stories.txt
         exit 0
     fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/stories.txt
@@ -156,6 +194,10 @@ elif [[ $INPUT == $COMMANDLINE ]]; then
         $BIONIFY /home/sachin/Desktop/AllData/semiconductors/commandlineNotes.txt
         exit 0
     fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/semiconductors/commandlineNotes.txt
+        exit 0
+    fi
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/semiconductors/commandlineNotes.txt
 elif [[ $INPUT == $PIYUSHCHANDRA ]];then 
      if [[ $SECONDINPUT == $OPEN ]]; then
@@ -166,6 +208,11 @@ elif [[ $INPUT == $PIYUSHCHANDRA ]];then
         $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/piyush.txt
         exit 0
     fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/piyush.txt
+        exit 0
+    fi 
+
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/piyush.txt
 else
     echo "invalid input"
