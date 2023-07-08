@@ -1,0 +1,83 @@
+
+associations [ revision ]
+planning 
+adaptations -daily -slow 
+wait 
+ignore
+secrets 
+mirroring
+exploration
+devotion
+simplify
+verbify
+experiential learning 
+small steps 
+daily agendas 
+----------------------------------------------------
+revision
+putting the right question for the Brain CPU
+timed iteration using c++
+listening without processing
+assume the virtue
+visible list
+task sheet
+lying
+sarcasm
+human help free / paid 
+delegate
+specialisation
+images
+OBS screen recording
+mathify
+-----------------------------------------------------
+breakpoints
+timer
+pharmaceuticals
+bookMarks
+timed Coffee
+timed naps
+keyboard Shortcuts
+visual studio code
+working around flaws
+daily tracks
+bionic text
+prompts
+QBank
+code
+command line
+--------------------------------------------------------------------------------------------------------
+specialisation: medicine - radiology , computers - 3d models , human brain - habits , chess -endgames 
+----------------------------------------------------
+visible list: basically this is the basis of notion usage 
+----------------------------------------------------
+ignore: the reason why bionic reading works 
+----------------------------------------------------
+listening without processing: just look down , put a smile and move the ignore timer 
+----------------------------------------------------
+assume the virtue: before wishing to become the worlds greatest radiologist , imagine being the worlds greatest radiologist . 
+----------------------------------------------------
+revision: the reason for recent habit failure was not giving enough time to revise the habits 
+----------------------------------------------------
+simplify: an hard problems is a collection of easy ones . 
+----------------------------------------------------
+mathify: an investors trait . 
+----------------------------------------------------
+adaptations -daily -slow :  
+----------------------------------------------------
+exploration: my weak part of exploration for the right thing in the wrong place , exploration is place dependent and exploration is also skill dependent . 
+----------------------------------------------------
+specialisation: you are sorrounded by a sphere of AI and competetionn and if you wanna cross that sphere than you gotta specialize in very specific sets of things . 
+----------------------------------------------------
+wait : if often says , waiting bears fruit . 
+----------------------------------------------------
+ignore: right questions make this tools so easy to acess 
+----------------------------------------------------
+listening without processing: among the most accepted anti social tool 
+----------------------------------------------------
+timed iteration using c++: literally saved all the habits from drowning . 
+----------------------------------------------------
+lying: in many cases if you dont wanna do something you can just lie . 
+----------------------------------------------------
+sarcasm: often works best when used for positive impact , non - manipulative and refrained from including the words me and i 
+----------------------------------------------------
+human help free / paid : free help might prove to be the most expensive thing in your life . 
