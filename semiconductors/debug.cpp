@@ -1,10 +1,31 @@
 #include <iostream>
 #include <fstream>
+#include <regex>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <map>
+#include <algorithm>
+#include <iterator>
+#include <sstream>
+#include <fstream>
+#include <iomanip>
+#include <regex>
+#include <algorithm>
+#include <random>
+
+using std::vector ; 
+using std::string ; 
+using std::regex ; 
+using std::cout ; 
+using std::cin ; 
+using std::endl ; 
 void debugChess () ;
 void debugCode () ; 
 void debugHabits () ; 
 void debugMRISequences () ; 
 void debugTools () ; 
+void debugTextFile ( std::string textfile ) ;
 std::string debugchess {"/home/sachin/Desktop/AllData/semiconductors/debugChess.txt"} ; 
 std::string debugcode {"/home/sachin/Desktop/AllData/semiconductors/debug.txt"} ;
 std::string debugHabitsTextFile ("/home/sachin/Desktop/AllData/dailyEventsAndQuotations/debughabits.txt") ; 
@@ -22,6 +43,7 @@ int main () {
 	std::cout << "enter habits or 'h' for habits" << std::endl;
 	std::cout << "enter 'seq' for MRI sequences" << std::endl;
 	std::cout << "enter 'tools' for tools" << std::endl;
+	std::cout << "enter txt for getting the address of a text file " << endl ; 
 	std::cout << "enter q to quit" << std::endl;
 	std::string input ;
 	std::cin >> input ;
@@ -76,20 +98,15 @@ int main () {
 		}
 	}
 	else if (input == "habits" || input == "h") {
-		while (isRunning) {
-			if (pressedQ) {
-				break;
-			}
-			debugHabits();
-			std::cout << "please enter q to exit the debug mode" << std::endl;
-			std::getline (std::cin , input  ) ;
-			if (input == "q") {
-				isRunning = false ; 
-			}
-			else {
-				std::cout << "repeating the process " << std::endl;
-			}
-		}
+		debugTextFile( debugHabitsTextFile) ; 
+	}
+	else if ( input == "txt"){
+		cout << "iterating over text file in random fashion "<< endl;
+		std::string fileAddress ; 
+		cin >> fileAddress ; 
+		cout << "file address is " << fileAddress << endl ; 
+		debugTextFile( fileAddress) ; 
+		
 	}
 	else if (input == "seq" || input == " seq") {
 		debugMRISequences() ; 
@@ -311,5 +328,70 @@ void debugTools () {
 		file2 << allInputLines;
 	}
 	file2.close();
+
+}
+
+
+
+void debugTextFile ( std::string textfile ) {
+	std::regex rodRegex ( "\\*--------\\*" ) ; 
+	std::string rod="----------------------------------------------------" ;
+	std::ifstream file(textfile);
+	string line  ; 
+	vector <string> lines ; 
+	std::smatch match ; 
+	int lineIndex = 0 ; 
+	bool isRunning = true ; 
+	while ( !file.eof() ) {
+		std::getline( file ,line  ) ;
+		if (  ! std::regex_search( line.cbegin() , line.cend() , match , rodRegex )  ){
+			if ( !line.empty() ) 
+				lines.push_back(line) ; 
+
+			cout << "pushing : " << line << endl ; 
+		 
+		}
+		else {
+			cout << "unpushed : " << line << endl ;  
+		}
+	}
+	file.close() ; 
+	// shuffling the lines 
+	auto rng = std::default_random_engine {};
+	std::shuffle(std::begin(lines), std::end(lines), rng);
+	std::ofstream fileAp( textfile , std::ofstream::app );
+
+	cout << "enter q to quit " << endl ; 
+	cout << "enter n for next" << endl ; 
+	while ( isRunning ){
+		if ( lineIndex >= lines.size() ){
+			break ; 
+		}
+		
+		string inputline ; 
+		
+		cout << lines[lineIndex] << endl ;
+		cout << endl ;
+		cout << endl ;
+		std::getline ( cin , inputline ) ; 
+		if ( inputline == "q" || inputline == " q " || inputline == " q"){
+			isRunning = false ; 
+			cout << "breaking the iteration " << endl ; 
+			break ; 
+		}
+		if ( inputline == "n" || inputline == " n " || inputline == " n"){
+			lineIndex++ ; 
+			cout << "next sequence " << endl ; 
+		
+		} 		
+		else {
+			fileAp << rod ; 
+			fileAp << endl ; 
+			fileAp << ( lines[lineIndex] + " : " +  inputline + "\n") ; 
+			fileAp << endl ; 
+			fileAp << rod ; 			
+		}
+	}
+	fileAp.close() ; 
 
 }

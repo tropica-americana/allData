@@ -1,0 +1,11 @@
+#! /bin/bash
+
+file="events.txt"
+
+
+while read p ; do 
+    if [[ -n $p ]]; then
+        echo $p
+        echo "$p" | wc -w 
+    fi
+done < $file

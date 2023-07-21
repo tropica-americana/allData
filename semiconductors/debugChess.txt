@@ -22,5 +22,3 @@ Trapped King
 double attack
 alphazero type move 
 ----------------------------------------------------
-
-

@@ -5,7 +5,7 @@
 TEXT=$1
 DIR=pwd 
 
-cd  /Desktop/AllData
+cd  /home/sachin/Desktop/AllData
 
 grep --color=auto  -r --include *.txt $TEXT
 

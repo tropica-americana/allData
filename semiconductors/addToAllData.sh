@@ -15,12 +15,15 @@ IDEA="idea"
 EVENT="evt"
 STORY="stry"
 PROMPT="prompt"
+COMMAND="command"
 COMMANDLINE="cmd"
+ADVICE="adv"
+ANATOMY="anat"
 BUG="bug"
 PIYUSHCHANDRA="pc"
 DATA="$@"
 BIONIFY="/home/sachin/Desktop/AllData/semiconductors/bionify.sh" # cat command on steroids
-VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE $PROMPT $PIYUSHCHANDRA)
+VALID_INPUTS=($ASSOCIATE $C_PLUS_PLUS $CVS $OPEN $RADO $WORD $IDEA $EVENT  $STORY $COMMANDLINE $PROMPT $PIYUSHCHANDRA $BUG $COMMAND $ADVICE $ANATOMY)
 USER_INPUT="-------------------------------------------------\n\n$DATA\n\n-------------------------------------------------"
 
 if [[ $INPUT == $OPEN ]]; then
@@ -116,11 +119,21 @@ elif [[ $INPUT == $RADO ]]; then
     elif [[ -z $SECONDINPUT ]]; then
         ROD="---------------------------"
         PASTEDDATA=$(xclip -selection clipboard -o) # this was for mac -> $(pbpaste)
-        echo -e $ROD >> /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
-        printf "%s\n" "$PASTEDDATA" >>/home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
-        echo -e $ROD >> /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
+        words=( $PASTEDDATA )
+        wordcount=$(echo ${#words[@]}) 
+        if [ $wordcount -gt 15 ] ;then 
+            echo "sorry the word count is greater than 15"
+            exit 0
+        fi        
+        echo -e $ROD >> /home/sachin/Desktop/AllData/medicine/radiology/radiologyNotes.txt
+        printf "%s\n" "$PASTEDDATA" >>/home/sachin/Desktop/AllData/medicine/radiology/radiologyNotes.txt
+        echo -e $ROD >> /home/sachin/Desktop/AllData/medicine/radiology/radiologyNotes.txt
         # displaying the contents anyway 
-        $BIONIFY /home/sachin/Desktop/AllData/medicine/radiology/radiology.txt
+        $BIONIFY /home/sachin/Desktop/AllData/medicine/radiology/radiologyNotes.txt
+        echo $wordcount
+
+        #as the wordcount command takes the file as input we have to use piping 
+
         exit 0
     # if second input is not empty and not any of the above then it is a command
     else
@@ -214,6 +227,54 @@ elif [[ $INPUT == $PIYUSHCHANDRA ]];then
     fi 
 
     echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/piyush.txt
+elif [[ $INPUT == $COMMAND ]];then 
+     if [[ $SECONDINPUT == $OPEN ]]; then
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/commands.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "cat" ]]; then 
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/commands.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/commands.txt
+        exit 0
+    fi 
+
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/commands.txt
+#adding the advice file 
+elif [[ $INPUT == $ADVICE ]] ; then 
+    if [[ $SECONDINPUT == $OPEN ]]; then
+        open /home/sachin/Desktop/AllData/dailyEventsAndQuotations/advice.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "cat" ]]; then 
+        $BIONIFY /home/sachin/Desktop/AllData/dailyEventsAndQuotations/advice.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/dailyEventsAndQuotations/advice.txt
+        exit 0
+    fi 
+
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/dailyEventsAndQuotations/advice.txt
+
+elif [[ $INPUT == $ANATOMY ]] ; then 
+    if [[ $SECONDINPUT == $OPEN ]]; then
+        open /home/sachin/Desktop/AllData/medicine/radiology/anatomy.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "cat" ]]; then 
+        $BIONIFY /home/sachin/Desktop/AllData/medicine/radiology/anatomy.txt
+        exit 0
+    fi
+    if [[ $SECONDINPUT == "code" ]] ; then 
+        code /home/sachin/Desktop/AllData/medicine/radiology/anatomy.txt
+        exit 0
+    fi 
+
+    echo -e $USER_INPUT >> /home/sachin/Desktop/AllData/medicine/radiology/anatomy.txt
+
 else
     echo "invalid input"
     echo "valid inputs are --> ${VALID_INPUTS[@]}"

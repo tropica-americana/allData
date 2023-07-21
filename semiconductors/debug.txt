@@ -11,6 +11,13 @@ Mistakes not to make in programming:
 9. Not using pre-made tools and using their own inefficient tools
 10. Not using enough print statements
 11. learing different languages without mastering one
+
 ----------------------------------------------------
-the above line is very important 
-----------------------------------------------------
+ : 
+--------------------------------------------------------------------------------------------------------
+ : ok so lets say this is working right 
+--------------------------------------------------------------------------------------------------------
+ : and then the next thing happens right 
+--------------------------------------------------------------------------------------------------------
+ : 
+
